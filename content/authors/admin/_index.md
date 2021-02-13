@@ -10,10 +10,8 @@ role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: CECS
-  url: https://cecs.anu.edu.au/
-- name: Australian National University
-  url: https://www.anu.edu.au/
+- name: CECS, Australian National University
+  url: https://cecs.anu.edu.au/, https://www.anu.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
