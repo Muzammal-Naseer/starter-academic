@@ -12,7 +12,6 @@ role: PhD Student
 organizations:
 - name: CECS
   url: https://cecs.anu.edu.au/
-  
 - name: Australian National University
   url: https://www.anu.edu.au/
 
