@@ -54,7 +54,6 @@ highlight_name: false
 My main research interests are adversarial attacks and defense methods, out of distribution generalization, transformers, and generative methods. My research includes applications to classfication, segmenation, object detection and visual tracking.
 
 **News:**
-
 - a
 - b
 - c
