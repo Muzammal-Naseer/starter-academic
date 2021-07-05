@@ -31,7 +31,7 @@ Education:
   - course: Master of Science in Electrical Engineering
     institution: King Fahd University of Petroleum & Minerals
     year: 2013
-  - course: Bachelor of Science in Electrical Engineering
+  - course: Bachelor of Science in Electrical
     institution: University of the Punjab
     year: 2010
 
