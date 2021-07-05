@@ -53,7 +53,7 @@ highlight_name: false
 
 I received my Ph.D. degree from Australian National University, Australia in 2020. My thesis was to "Analyse & Improve Neural Network’s Robustness against Adversarial Perturbations“. I am a researcher in the Computer Vision Lab at MBZUAI, UAE.
 
-Currently, I am foucused on improving **Adversarial Attacks and Defense** methods, **Attention based Modeling**, and **Out of Distribution Generalization**. My research includes applications to classfication, segmenation, object detection and visual tracking.
+Currently, I am foucused on improving **Adversarial Attacks and Defense** methods, **Attention based Modeling**, and **Out of Distribution Generalization**. My research includes applications to classification, segmentation, object detection and visual tracking.
 
 **News:**
 - **One CVPR 2020** paper accepted (Oral).
