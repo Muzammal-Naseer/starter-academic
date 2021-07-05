@@ -23,13 +23,13 @@ Interests:
 - Out of Distribution Generalization
 
 # Education to show in About widget
-education:
+Education:
   courses:
   - course: PhD in Engineering & Computer Science
     institution: The Australian National University
     year: 2020
   - course: Master of Science inElectrical Engineering
-    institution: King Fahd University of Petroleum & Minerals (
+    institution: King Fahd University of Petroleum & Minerals
     year: 2013
   - course: Bachelor of Science inElectrical Engineering
     institution: University of the Punjab
