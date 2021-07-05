@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Muzammal Naseer
+title: Kanchana Ranasinghe
 
 # Is this the primary user of the site?
 superuser: true
@@ -55,3 +55,5 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
+
+Kanchana Ranasinghe is currently a research assistant in the Computer Vision Lab (CVL) at MBZUAI.
