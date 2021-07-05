@@ -22,21 +22,6 @@ Interests:
 - Attention based Modeling
 - Out of Distribution Generalization
 
-<!-- 
-# Education to show in About widget
-Education:
-  courses:
-  - course: PhD in Engineering & Computer Science
-    institution: The Australian National University
-    year: 2020
-  - course: Master of Science in Electrical Engineering
-    institution: King Fahd University of Petroleum & Minerals
-    year: 2013
-  - course: Bachelor of Science in Electrical Engineering
-    institution: University of the Punjab
-    year: 2010 
--->
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
