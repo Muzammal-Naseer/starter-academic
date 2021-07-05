@@ -51,7 +51,9 @@ email: ""
 highlight_name: false
 ---
 
-My main research interests are adversarial attacks and defense methods, out of distribution generalization, transformers, and generative methods. My research includes applications to classfication, segmenation, object detection and visual tracking.
+I received my Ph.D. degree from Australian National University, Australia in 2020. My thesis was to "Analysing & Improving Neural Network’s Robustness against Adversarial Perturbations“. I am a researcher in the Computer Vision Lab at MBZUAI, UAE.
+
+Currently, I am foucused on improving **adversarial attacks and defense** methods, **Attention based modeling**, and **Out of Gistribution Generalization**. My research includes applications to classfication, segmenation, object detection and visual tracking.
 
 **News:**
 - **One CVPR 2020** paper accepted (Oral).
