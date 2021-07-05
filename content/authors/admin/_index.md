@@ -57,5 +57,3 @@ My main research interests are adversarial attacks and defense methods, out of d
 - **One CVPR 2020** paper accepted (Oral).
 - **One NeurIPS 2019** paper accepted.
 - **One WACV 2019** paper accepted.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
