@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Students"
-  url = "#students"
+  name = "People"
+  url = "#people"
   weight = 20
 
 [[main]]
