@@ -28,10 +28,10 @@ Education:
   - course: PhD in Engineering & Computer Science
     institution: The Australian National University
     year: 2020
-  - course: Master of Science inElectrical Engineering
+  - course: Master of Science in Electrical Engineering
     institution: King Fahd University of Petroleum & Minerals
     year: 2013
-  - course: Bachelor of Science inElectrical Engineering
+  - course: Bachelor of Science in Electrical Engineering
     institution: University of the Punjab
     year: 2010
 
