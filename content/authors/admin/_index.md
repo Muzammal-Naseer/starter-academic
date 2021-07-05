@@ -15,9 +15,9 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+---
 # Interests to show in About widget
-Interests:
+News:
 - Adversarial Attacks and Defenses
 - Attention based Modeling
 - Out of Distribution Generalization
