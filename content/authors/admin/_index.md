@@ -59,3 +59,15 @@ Currently, I am foucused on improving **Adversarial Attacks and Defense** method
 - **One CVPR 2020** paper accepted (Oral).
 - **One NeurIPS 2019** paper accepted.
 - **One WACV 2019** paper accepted.
+- - **One CVPR 2020** paper accepted (Oral).
+- **One NeurIPS 2019** paper accepted.
+- **One WACV 2019** paper accepted.
+- - **One CVPR 2020** paper accepted (Oral).
+- **One NeurIPS 2019** paper accepted.
+- **One WACV 2019** paper accepted.
+- - **One CVPR 2020** paper accepted (Oral).
+- **One NeurIPS 2019** paper accepted.
+- **One WACV 2019** paper accepted.
+- - **One CVPR 2020** paper accepted (Oral).
+- **One NeurIPS 2019** paper accepted.
+- **One WACV 2019** paper accepted.
