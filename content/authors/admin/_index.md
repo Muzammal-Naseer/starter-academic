@@ -54,8 +54,8 @@ highlight_name: false
 My main research interests are adversarial attacks and defense methods, out of distribution generalization, transformers, and generative methods. My research includes applications to classfication, segmenation, object detection and visual tracking.
 
 **News:**
-- a
-- b
-- c
+- **One CVPR 2020** paper accepted (Oral).
+- **One NeurIPS 2019** paper accepted.
+- **One WACV 2019** paper accepted.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
