@@ -22,7 +22,7 @@ Interests:
 - Attention based Modeling
 - Out of Distribution Generalization
 
-# Education to show in About widget
+<!-- # Education to show in About widget
 Education:
   courses:
   - course: PhD in Engineering & Computer Science
@@ -33,7 +33,7 @@ Education:
     year: 2013
   - course: Bachelor of Science in Electrical Engineering
     institution: University of the Punjab
-    year: 2010
+    year: 2010 -->
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
