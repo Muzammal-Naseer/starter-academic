@@ -31,7 +31,7 @@ Education:
   - course: Master of Science in Electrical Engineering
     institution: King Fahd University of Petroleum & Minerals
     year: 2013
-   - course: Master of Science in Electrical Engineering
+  - course: Master of Science in Electrical Engineering
     institution: King Fahd University of Petroleum & Minerals
     year: 2013
 
