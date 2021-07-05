@@ -15,13 +15,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
----
-# Interests to show in About widget
-News:
-- Adversarial Attacks and Defenses
-- Attention based Modeling
-- Out of Distribution Generalization
----
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -58,5 +52,11 @@ highlight_name: false
 ---
 
 My main research interests are adversarial attacks and defense methods, out of distribution generalization, transformers, and generative methods. My research includes applications to classfication, segmenation, object detection and visual tracking.
+
+** News: **
+
+- a
+- b
+- c
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
