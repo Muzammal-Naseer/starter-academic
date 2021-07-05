@@ -14,7 +14,7 @@ organizations:
   url: https://cecs.anu.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include adversarial attacks and defenses, Attention based Modeling and Out of distribution Generalization.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
