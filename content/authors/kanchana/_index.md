@@ -50,7 +50,7 @@ I supervised Kanchana Ranasinghe during his stay (8-months) at the Computer Visi
 
 He also participated in other research projects related to Vision Transformers.
 
-**Research Output**
+**Research Outputs**
 
 - [Orthogonal Projection Loss](https://arxiv.org/abs/2103.14021)
 - [On Improving Adversarial Transferability of Vision Transformers](https://arxiv.org/abs/2106.04169)
