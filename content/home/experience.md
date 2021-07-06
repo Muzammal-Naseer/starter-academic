@@ -22,19 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Intern
+    company: Frequency Allocation Board (FAB)
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Pakistan
+    date_start: '2009-05-01'
+    date_end: '2009-06-30'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
+        - I worked with FAB team to develop the direction finding system for RF Interferers. This field research was a part of my BS thesis: "Spectrum Monitoring & Analysis of Interference in EGSM Networks".
   - title: Professor
     company: University X
     company_url: ''
