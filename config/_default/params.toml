@@ -88,19 +88,19 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "martin.danelljan@vision.ee.ethz.ch"
+email = "muzammal.naseer@anu.edu.au"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Sternwartstrasse 7", city = "Zurich", postcode = "8092", country = "Switzerland", country_code = "CH"}
+address = {street = "Canberra ACT", city = "Canberra", postcode = "0200", country = "Australia", country_code = "AU"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "47.3772", longitude = "8.5522"}
+coordinates = {latitude = "-32.6176", longitude = "148.9529"}
 
 # Directions for visitors to locate you.
-directions = "Building: ETF. Room: D117"
+directions = "Building: 31, Ian Ross Building"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
