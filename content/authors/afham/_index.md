@@ -47,5 +47,5 @@ Mohamed Afham successfully completed a research project that improved **Few-shot
 
 **Research Output**
 
-(Rich Semantics Improve Few-shot Learning)[https://arxiv.org/abs/2104.12709]
+[Rich Semantics Improve Few-shot Learning](https://arxiv.org/abs/2104.12709)
 
