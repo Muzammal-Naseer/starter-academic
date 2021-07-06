@@ -30,11 +30,11 @@ experience:
     date_end: '2009-06-30'
     description: |2-
         - I worked with FAB team to develop the direction finding system for RF Interferers. This field research was a part of my BS thesis: "Spectrum Monitoring & Analysis of Interference in EGSM Networks".
-  - title: Professor
-    company: University X
+  - title: Teaching Assistant
+    company: Department of Electrical Engineering, KFUPM
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.Taught electronic engineering and researched semiconductor physics.Taught electronic engineering and researched semiconductor physics.
+    location: King Fahd University of Petroleum and Minerals 
+    date_start: '2013-01-01'
+    date_end: '2013-05-28'
+    description: I assisted in Control System Theory and Signal Processing courses for the period of one semester.
 ---
