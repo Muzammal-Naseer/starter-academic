@@ -46,4 +46,12 @@ experience:
     date_end: '2017-06-30'
     description: |2-
         - I joined subcampus of KFUPM, now known as "University of Hafr Al-Batin" as a full-time lecturer to teach variety of Electrical Engineering courses.
+ - title: <span style="color:#6495ED">Research Assistant</span>
+    company: Data61, CSIRO
+    company_url: ''
+    location: Canberra, Australia
+    date_start: '2018-01-01'
+    date_end: '2018-07-30'
+    description: |2-
+        - Developed new black-box attack methods for transferable adversarial perturbations for neural networks based vision systems.
 ---
