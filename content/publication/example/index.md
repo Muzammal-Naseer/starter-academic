@@ -80,8 +80,6 @@ projects: []
 slides: []
 # example
 
-cite: []
-
 
 ---
 
