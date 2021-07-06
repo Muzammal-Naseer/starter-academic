@@ -27,6 +27,8 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: A model trained in a self-supervised manner capable to stabalize unseen adversarial signal and reducing back-box transferability of adversarial attacks.
 
+- admin
+
 tags: []
 
 # Display this page in the Featured widget?
