@@ -97,7 +97,7 @@ address = {street = "Canberra ACT", city = "Canberra", postcode = "0200", countr
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-32.6176", longitude = "148.9529"}
+coordinates = {latitude = "-32.6176", longitude = "148.95291"}
 
 # Directions for visitors to locate you.
 directions = "Building: 31, Ian Ross Building"
