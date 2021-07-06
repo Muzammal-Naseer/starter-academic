@@ -46,6 +46,7 @@ user_groups:
 Mohamed Afham successfully completed a research project that improved **Few-shot learning** by introducing rich semantics through language description about the object classes.  I supervised him during his stay at the Computer Vision Lab (CVL), MBZUAI as research assistant. 
 
 **Research Output**
-
 [Rich Semantics Improve Few-shot Learning](https://arxiv.org/abs/2104.12709)
+
+# Go To Mohmed Afham [Linkedin Profile](https://www.linkedin.com/in/mohamedafham/)
 
