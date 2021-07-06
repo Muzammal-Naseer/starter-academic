@@ -46,4 +46,9 @@ experience:
     date_end: '2017-06-30'
     description: |2-
         - I joined subcampus of KFUPM, now known as "University of Hafr Al-Batin" as a full-time lecturer to teach variety of Electrical Engineering courses.
+ - title: <span style="color:#6495ED">Lecturer</span>
+    company: Department of Electrical Engineering - subcampus of KFUPM
+    company_url: ''
+    location: Hafr Al-Batin, Saudi Arabia
+    date_start: '2014-09-01'
 ---
