@@ -30,7 +30,7 @@ experience:
     date_end: '2009-06-30'
     description: |2-
         - I worked with FAB team to develop the direction finding system for RF Interferers. This field research was a part of my BS thesis: "Spectrum Monitoring & Analysis of Interference in EGSM Networks".
-  - title: <span style="color:purple">Teaching Assistant</span>
+  - title: <span style="color:blue">Teaching Assistant</span>
     company: Department of Electrical Engineering, KFUPM
     company_url: ''
     location: King Fahd University of Petroleum and Minerals 
@@ -38,7 +38,7 @@ experience:
     date_end: '2013-05-28'
     description: |2-
         - I assisted in Control System Theory and Signal Processing courses for the period of one semester.
-  - title: Lecturer
+  - title: <span style="color:blue">Lecturer</span>
     company: Department of Electrical Engineering - subcampus of KFUPM
     company_url: ''
     location: King Fahd University of Petroleum and Minerals 
