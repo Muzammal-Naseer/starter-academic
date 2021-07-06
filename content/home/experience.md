@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: <span style="color:blue">Research Intern</span>
+  - title: <span style="color:#6495ED">Research Intern</span>
     company: Frequency Allocation Board (FAB)
     company_url: ''
     location: Pakistan
@@ -30,7 +30,7 @@ experience:
     date_end: '2009-06-30'
     description: |2-
         - I worked with FAB team to develop the direction finding system for RF Interferers. This field research was a part of my BS thesis: "Spectrum Monitoring & Analysis of Interference in EGSM Networks".
-  - title: <span style="color:blue">Teaching Assistant</span>
+  - title: <span style="color:#6495ED">Teaching Assistant</span>
     company: Department of Electrical Engineering, KFUPM
     company_url: ''
     location: King Fahd University of Petroleum and Minerals 
@@ -38,7 +38,7 @@ experience:
     date_end: '2013-05-28'
     description: |2-
         - I assisted in Control System Theory and Signal Processing courses for the period of one semester.
-  - title: <span style="color:blue">Lecturer</span>
+  - title: <span style="color:#6495ED">Lecturer</span>
     company: Department of Electrical Engineering - subcampus of KFUPM
     company_url: ''
     location: King Fahd University of Petroleum and Minerals 
