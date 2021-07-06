@@ -16,7 +16,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020"
+date: "March 2020"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
