@@ -21,7 +21,7 @@ content:
   filters:
     author: ""
     category: ""
-    publication_type: "CVPR"
+    publication_type: ""
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
