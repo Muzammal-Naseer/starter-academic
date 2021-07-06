@@ -48,7 +48,7 @@ links:
  - name: Code
    url: https://github.com/Muzammal-Naseer/NRP
  - name: Video
- - url: https://drive.google.com/file/d/1qUSC0KXPqRFtP5QB9Y70_ZKXqfDFmA7W/view
+   url: https://drive.google.com/file/d/1qUSC0KXPqRFtP5QB9Y70_ZKXqfDFmA7W/view
  - name: arXiv
    url: https://arxiv.org/abs/2006.04924
 
