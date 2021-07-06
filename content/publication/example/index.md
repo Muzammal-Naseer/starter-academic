@@ -16,11 +16,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2020"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020"
 
 
 # Publication type.
@@ -30,13 +30,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+publication: In *Conference on Computer Vision and Pattern Recognition, CVPR 2020*
 publication_short: In *ICW*
 
 abstract: Adversarial examples can cause catastrophic mistakes in Deep Neural Network (DNNs)  based vision systems e.g., for classification, segmentation and object detection. The vulnerability of DNNs against such attacks can prove a major roadblock towards their real-world deployment. Transferability of adversarial examples demand generalizable defenses that can provide cross-task protection. Adversarial training that enhances robustness by modifying target model's parameters lacks such generalizability. On the other hand, different input processing based defenses fall short in the face of continuously evolving attacks. In this paper, we take the first step to combine the benefits of both approaches and propose a self-supervised adversarial training mechanism in the input space. By design, our defense is a generalizable approach and provides significant robustness against the \textbf{unseen} adversarial attacks (\eg by reducing the success rate of translation-invariant \textbf{ensemble} attack from 82.6\% to 31.9\% in comparison to previous state-of-the-art). It can be deployed as a plug-and-play solution to protect a variety of vision systems, as we demonstrate for the case of classification, segmentation and detection. Code is available at [here](https://github.com/Muzammal-Naseer/NRP).
 
 # Summary. An optional shortened abstract.
-summary: <span style="color:#117A65">### CVPR 2020</span>, <span style="color:#D35400">### Oral</span> <br> A model trained in a self-supervised manner capable to stabalize unseen adversarial signals and reducing the back-box transferability of adversarial attacks.
+summary: <span style="color:#117A65">**CVPR 2020**</span>, <span style="color:#D35400">**Oral**</span> <br> A model trained in a self-supervised manner capable to stabalize unseen adversarial signals and reducing the back-box transferability of adversarial attacks.
 
 tags: []
 
