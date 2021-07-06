@@ -69,5 +69,5 @@ experience:
     date_start: '2020-09-01'
     date_end: ''
     description: |2-
-        - I have joined MBZUAI as a research associate. I am focused on developing novel algorithms for adversarial attacks and defenses, few-shot learning and domain generalization. I am also supervising MS/Ph.D. students as well as researach assistants.
+        - I joined MBZUAI as a research associate. I am focused on developing novel algorithms for adversarial attacks and defenses, few-shot learning and domain generalization. I am also supervising MS/Ph.D. students as well as researach assistants.
 ---
