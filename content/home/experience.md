@@ -33,7 +33,7 @@ experience:
   - title: <span style="color:#6495ED">Teaching Assistant</span>
     company: Department of Electrical Engineering, KFUPM
     company_url: ''
-    location: King Fahd University of Petroleum and Minerals 
+    location: Dhahran, Saudi Arabia
     date_start: '2013-01-01'
     date_end: '2013-05-28'
     description: |2-
@@ -41,9 +41,17 @@ experience:
   - title: <span style="color:#6495ED">Lecturer</span>
     company: Department of Electrical Engineering - subcampus of KFUPM
     company_url: ''
-    location: King Fahd University of Petroleum and Minerals 
+    location: Hafr Al-Batin, Saudi Arabia
     date_start: '2014-09-01'
     date_end: '2017-06-30'
     description: |2-
         - I joined subcampus of KFUPM, now known as "University of Hafr Al-Batin" as a full-time lecturer to teach variety of Electrical Engineering courses.
+- title: <span style="color:#6495ED">Research Assistant</span>
+    company: Data61, CSIRO
+    company_url: ''
+    location: Canberra, Australia
+    date_start: '2018-01-01'
+    date_end: '2018-07-30'
+    description: |2-
+        - Developed new black-box attack methods for transferable adversarial perturbations for neural networks based vision systems.
 ---
