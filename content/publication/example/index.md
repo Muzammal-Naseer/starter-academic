@@ -1,5 +1,5 @@
 ---
-title: "A Self-supervised Approach for Adversarial Robustness"
+title: "A Self-supervised Approach for Adversarial Robustness" <img src="/img1.png" width="100" />
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
