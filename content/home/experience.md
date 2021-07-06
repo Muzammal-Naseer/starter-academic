@@ -54,4 +54,20 @@ experience:
     date_end: '2018-07-30'
     description: |2-
         - Developed new black-box attack methods for transferable adversarial perturbations for neural networks based vision systems.
+  - title: <span style="color:#6495ED">Research Assistant</span>
+    company: Inception Institute of Artificial Intelligence
+    company_url: ''
+    location: Abu Dhabi, UAE
+    date_start: '2018-09-01'
+    date_end: '2020-03-15'
+    description: |2-
+        - Developed novel adversarial attack and defense algorithms for neural networks based vision systems.
+  - title: <span style="color:#6495ED">Research Associate</span>
+    company: Mohamed bin Zayed University of Artificial Intelligence
+    company_url: ''
+    location: Abu Dhabi, UAE
+    date_start: '2020-09-01'
+    date_end: ''
+    description: |2-
+        - I have joined MBZUAI as a research associate. I am focused on developing novel algorithms for adversarial attacks and defenses, few-shot learning and domain generalization. I am also supervising MS/Ph.D. students as well as researach assistants.
 ---
