@@ -27,13 +27,6 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: A model trained in a self-supervised manner capable to stabalize unseen adversarial signal and reducing back-box transferability of adversarial attacks.
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
-authors:
- - admin
- - Robert Ford
-
 tags: []
 
 # Display this page in the Featured widget?
@@ -75,6 +68,13 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: []
 # example
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# and it will be replaced with their full name and linked to their profile.
+authors:
+ - admin
+ - Robert Ford
 ---
 
 {{% callout note %}}
