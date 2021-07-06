@@ -46,7 +46,7 @@ user_groups:
 - Researcher Interns
 ---
 
-I supervised Kanchana Ranasinghe during his stay (8-months) at the Computer Vision Lab (CVL), MBZUAI as research assistant. He desinged a novel loss function **"Othogonal Project Loss"** that enforces orthogonality in the feature space and enhances the performance & robustness of neural networks. 
+Kanchana Ranasinghe desinged a novel loss function **"Othogonal Project Loss"** that enforces orthogonality in the feature space and enhances the performance & robustness of neural networks. I supervised Kanchana Ranasinghe during his stay (8-months) at the Computer Vision Lab (CVL), MBZUAI as research assistant. 
 
 He also participated in other research projects related to Vision Transformers.
 
