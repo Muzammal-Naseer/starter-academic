@@ -35,7 +35,7 @@ publication_types: ["1"]
 # Summary. An optional shortened abstract.
 summary: A model trained in a self-supervised manner capable to stabalize unseen adversarial signal and reducing back-box transferability of adversarial attacks.
 
-tags: -admin
+tags: - admin
 
 # Display this page in the Featured widget?
 featured: true
