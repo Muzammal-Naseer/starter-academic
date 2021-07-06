@@ -36,5 +36,6 @@ experience:
     location: King Fahd University of Petroleum and Minerals 
     date_start: '2013-01-01'
     date_end: '2013-05-28'
-    description: I assisted in Control System Theory and Signal Processing courses for the period of one semester.
+    description: |2-
+        - I assisted in Control System Theory and Signal Processing courses for the period of one semester.
 ---
