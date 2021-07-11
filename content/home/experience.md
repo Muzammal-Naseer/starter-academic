@@ -63,7 +63,7 @@ experience:
     description: |2-
         - Developed novel adversarial attack and defense algorithms for neural networks based vision systems.
   - title: <span style="color:#6495ED">Research Associate</span>
-    company: <span style="color:#033E3E"> Mohamed bin Zayed University of Artificial Intelligence</span>
+    company: Mohamed bin Zayed University of Artificial Intelligence
     company_url: ''
     location: Abu Dhabi, UAE
     date_start: '2020-09-01'
