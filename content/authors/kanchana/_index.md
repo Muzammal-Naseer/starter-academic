@@ -52,7 +52,7 @@ He also participated in other research projects related to Vision Transformers.
 
 **Research Outputs**
 
-- [Orthogonal Projection Loss](https://arxiv.org/abs/2103.14021)
+- [Orthogonal Projection Loss](https://arxiv.org/abs/2103.14021) [ICCV, 2021]
 - [On Improving Adversarial Transferability of Vision Transformers](https://arxiv.org/abs/2106.04169)
 - [Intriguing Properties of Vision Transformers](https://arxiv.org/abs/2105.10497)
 
