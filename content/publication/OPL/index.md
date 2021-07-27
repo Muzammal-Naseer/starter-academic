@@ -54,7 +54,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: https://kahnchana.github.io/opl/
 url_slides: ''
 url_source: ''
 url_video: ''
