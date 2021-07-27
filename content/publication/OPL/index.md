@@ -45,6 +45,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
+ - name: Project Page
+   url: https://kahnchana.github.io/opl/
  - name: Code
    url: https://github.com/kahnchana/opl
  - name: arXiv
@@ -54,7 +56,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: https://kahnchana.github.io/opl/
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
