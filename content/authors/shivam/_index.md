@@ -46,7 +46,7 @@ user_groups:
 - Researcher Interns
 ---
 
-Shivam Chandhok is a research assistant at the Computer Vision Lab (CVL), MBZUAI. He is working on domain generalization within the framework of few-shot learning.
+Shivam Chandhok is a research assistant at the Computer Vision Lab (CVL), MBZUAI. He is working on domain generalization within the framework of zero-shot learning.
 
 **Research Outputs**
 
