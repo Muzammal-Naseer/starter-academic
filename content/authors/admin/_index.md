@@ -51,7 +51,7 @@ email: ""
 highlight_name: false
 ---
 
-I submitted my Ph.D. thesis from Australian National University, Australia in 2020. My thesis was to "Analyse & Improve Neural Network’s Robustness against Adversarial Perturbations“. I am a researcher in the Computer Vision Lab at MBZUAI, UAE.
+I submitted my Ph.D. thesis to Australian National University, Australia in 2020. My thesis was to "Analyse & Improve Neural Network’s Robustness against Adversarial Perturbations“. I am a researcher in the Computer Vision Lab at MBZUAI, UAE.
 
 Currently, I am foucused on improving **Adversarial Attacks and Defense** methods, **Attention based Modeling**, and **Few-shot Learning**. My research includes applications to classification, segmentation, object detection and visual tracking.
 
