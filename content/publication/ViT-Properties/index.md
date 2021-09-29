@@ -47,9 +47,9 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Code
-   url: https://github.com/Muzammal-Naseer/TTP
+   url: https://github.com/Muzammal-Naseer/Intriguing-Properties-of-Vision-Transformers
  - name: arXiv
-   url: https://arxiv.org/abs/2103.14641
+   url: https://arxiv.org/abs/2105.10497
 
 url_pdf: ''
 url_code: ''
