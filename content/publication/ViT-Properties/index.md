@@ -1,23 +1,22 @@
 ---
-title: "Intriguing Properties of Vision Transformers" 
+title: "On Generating Transferable Targeted Perturbations" 
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
- - admin 
- - Kanchana Ranasinghe
+ - admin
  - Salman Khan
  - Munawar Hayat
  - Fahad Shahbaz Khan
- - Ming Hsuan Yang
+ - Fatih Porikli
 
-<!-- # Author notes (optional)
+# Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-09-01T00:00:00Z"
+date: "2021-07-01T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,13 +30,15 @@ date: "2021-09-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In * Conference on Neural Information Processing Systems, NeurIPS 2021*
-publication_short: In *NeurIPS*
+publication: In * International Conference on Computer Vision, ICCV 2021*
+publication_short: In *ICCV*
 
-abstract: Vision transformers (ViT) have demonstrated impressive performance across various machine vision tasks. These models are based on multi-head self-attention mechanisms that can flexibly attend to a sequence of image patches to encode contextual cues. An important question is how such flexibility (in attending image-wide context conditioned on a given patch) can facilitate handling nuisances in natural images e.g., severe occlusions, domain shifts, spatial permutations, adversarial and natural perturbations. We systematically study this question via an extensive set of experiments encompassing three ViT families and provide comparisons with a high-performing convolutional neural network (CNN). We show and analyze the following intriguing properties of ViT: (a) Transformers are highly robust to severe occlusions, perturbations and domain shifts, e.g., retain as high as 60% top-1 accuracy on ImageNet even after randomly occluding 80% of the image content. (b) The robust performance to occlusions is not due to a bias towards local textures, and ViTs are significantly less biased towards textures compared to CNNs. When properly trained to encode shape-based features, ViTs demonstrate shape recognition capability comparable to that of human visual system, previously unmatched in the literature. (c) Using ViTs to encode shape representation leads to an interesting consequence of accurate semantic segmentation without pixel-level supervision. (d) Off-the-shelf features from a single ViT model can be combined to create a feature ensemble, leading to high accuracy rates across a range of classification datasets in both traditional and few-shot learning paradigms. We show effective features of ViTs are due to flexible and dynamic receptive fields possible via self-attention mechanisms. 
+abstract: While the untargeted black-box transferability of adversarial perturbations has been extensively studied before, changing an unseen model's decisions to a specific targeted class remains a challenging feat. In this paper, we propose a new generative approach for highly transferable targeted perturbations (ours). We note that the existing methods are less suitable for this task due to their reliance on class-boundary information that changes from one model to another, thus reducing transferability. In contrast, our approach matches the perturbed image distribution' with that of the target class, leading to high targeted transferability rates. To this end, we propose a new objective function that not only aligns the global distributions of source and target images, but also matches the local neighbourhood structure between the two domains. Based on the proposed objective, we train a generator function that can adaptively synthesize perturbations specific to a given input. Our generative approach is independent of the source or target domain labels, while consistently performs well against state-of-the-art methods on a wide range of attack settings. As an example, we achieve 32.63% target transferability from (an adversarially weak) VGG19BN to (a strong) WideResNet on ImageNet val. set, which is 4x higher than the previous best generative attack and 16x better than instance-specific iterative attack. Code is available at [here](https://github.com/Muzammal-Naseer/TTP)
 
 # Summary. An optional shortened abstract.
-summary: <span style="font-size:120%;color:#117A65">**NeurIPS 2021**</span> <br> We demonstrate favorable merits of ViTs over CNNs for occlusion handling, robustness to distributional shifts and patch permutations, automatic segmentation without pixel supervision, and robustness against adversarial patches and common corruptions.
+summary: <span style="font-size:120%;color:#117A65">**ICCV 2021**</span> <br> Adversarial generator trained to model global targeted adversarial patterns by matching source and target domains in the discriminator's latent space. Training does not require source/target labels or classfication scores. 
+# Patterns found via our method show high (black-box, zero knowledge about victim model) transferability to differnet network architectures, tranining mechanisms and defenses including against state-of-the-art input procressing.
+
 tags: []
 
 # Display this page in the Featured widget?
@@ -46,9 +47,9 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Code
-   url: https://github.com/Muzammal-Naseer/Intriguing-Properties-of-Vision-Transformers
+   url: https://github.com/Muzammal-Naseer/TTP
  - name: arXiv
-   url: https://arxiv.org/abs/2105.10497
+   url: https://arxiv.org/abs/2103.14641
 
 url_pdf: ''
 url_code: ''
@@ -94,4 +95,3 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
 
- -->
