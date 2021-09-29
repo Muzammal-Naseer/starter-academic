@@ -10,7 +10,7 @@ authors:
  - Salman Khan
  - Munawar Hayat
  - Fahad Shahbaz Khan
- - Ming-Hsuan Yang
+ - Ming Hsuan Yang
 
 # Author notes (optional)
 # author_notes:
