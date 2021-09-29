@@ -12,7 +12,7 @@ authors:
  - Fahad Shahbaz Khan
  - Ming Hsuan Yang
 
-# Author notes (optional)
+<!-- # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
@@ -94,3 +94,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
 
+ -->
