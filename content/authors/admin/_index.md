@@ -21,8 +21,8 @@ bio: My research interests include adversarial attacks and defenses, Attention b
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: google-scholar
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.ch/citations?user=tM9xKA8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
