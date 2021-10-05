@@ -6,12 +6,12 @@ title: Muzammal Naseer
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: CECS, Australian National University
-  url: https://cecs.anu.edu.au/
+- name: CV, MBZUAI UAE
+  url: https://mbzuai-cv-lab.netlify.app/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include adversarial attacks and defenses, Attention based Modeling and Out of distribution Generalization.
