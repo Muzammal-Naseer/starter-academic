@@ -21,14 +21,8 @@ bio: My research interests include adversarial attacks and defenses, Attention b
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/NaseerMuzammal
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+  icon_pack: google-scholar
   link: https://scholar.google.ch/citations?user=tM9xKA8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
@@ -36,6 +30,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/muzammalnaseer/
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/NaseerMuzammal
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
