@@ -10,7 +10,7 @@ role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: CV, MBZUAI UAE
+- name: CVL, MBZUAI UAE
   url: https://mbzuai-cv-lab.netlify.app/
 
 # Short bio (displayed in user profile at end of posts)
