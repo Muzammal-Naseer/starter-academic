@@ -1,13 +1,15 @@
 ---
-title: "Local Gradients Smoothing: Defense Against Localized Adversarial Attacks" 
+title: "Rich Semantics Improve Few-shot Learning" 
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
- - admin
+ - Mohamed Afham
  - Salman Khan
- - Fatih Porikli
+ - Haris Khan
+ - Admin
+ - Fahad Khan
 
 # Author notes (optional)
 # author_notes:
@@ -31,7 +33,7 @@ publication_types: ["1"]
 publication: In * Winter Conference on Applications of Computer Vision, WACV 2019*
 publication_short: In *WACV*
 
-abstract: Deep neural networks (DNNs) have shown vulnerability to adversarial attacks, i.e., carefully perturbed inputs designed to mislead the network at inference time. Recently introduced localized attacks, Localized and Visible Adversarial Noise (LaVAN) and Adversarial patch, pose a new challenge to deep learning security by adding adversarial noise only within a specific region without affecting the salient objects in an image. Driven by the observation that such attacks introduce concentrated high-frequency changes at a particular image location, we have developed an effective method to estimate noise location in gradient domain and transform those high activation regions caused by adversarial noise in image domain while having minimal effect on the salient object that is important for correct classification. Our proposed Local Gradients Smoothing (LGS) scheme achieves this by regularizing gradients in the estimated noisy region before feeding the image to DNN for inference. We have shown the effectiveness of our method in comparison to other defense methods including Digital Watermarking, JPEG compression, Total Variance Minimization (TVM) and Feature squeezing on ImageNet dataset. In addition, we systematically study the robustness of the proposed defense mechanism against Back Pass Differentiable Approximation (BPDA), a state of the art attack recently developed to break defenses that transform an input sample to minimize the adversarial effect. Compared to other defense mechanisms, LGS is by far the most resistant to BPDA in localized adversarial attack setting. Third party code implementation is available [at](https://github.com/metallurk/local_gradients_smoothing/blob/master/lgs.ipynb)
+abstract: Human learning benefits from multi-modal inputs that often appear as rich semantics (e.g., description of an object's attributes while learning about it). This enables us to learn generalizable concepts from very limited visual examples. However, current few-shot learning (FSL) methods use numerical class labels to denote object classes which do not provide rich semantic meanings about the learned concepts. In this work, we show that by using  class-level language descriptions, that can be acquired with minimal annotation cost, we can improve the FSL performance. Given a support set and queries, our main idea is to create a bottleneck visual feature (hybrid prototype) which is then used to generate language descriptions of the classes as an auxiliary task during training. We develop a Transformer based forward and backward encoding mechanism to relate visual and semantic tokens that can encode intricate relationships between the two modalities. Forcing the prototypes to retain semantic information about class description acts as a regularizer on the visual features, improving their generalization to novel classes at inference. Furthermore, this strategy imposes a human prior on the learned representations, ensuring that the model is faithfully relating visual and semantic concepts, thereby improving model interpretability. Our experiments on four datasets and ablation studies show the benefit of effectively modeling rich semantics for FSL. Code will be released [at](https://github.com/MohamedAfham/RS_FSL) 
 
 # Summary. An optional shortened abstract.
 summary: <span style="font-size:120%;color:#117A65">**WACV 2019**</span> <br> Adversarial Defense approach based on regularization of gradients in the input space that is capable to mitigate the effect of unconstrained adversarial patches.
@@ -44,9 +46,9 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Code (Third Party)
-   url: https://github.com/metallurk/local_gradients_smoothing/blob/master/lgs.ipynb
+   url: https://github.com/MohamedAfham/RS_FSL
  - name: arXiv
-   url: https://arxiv.org/abs/1807.01216
+   url: https://arxiv.org/abs/2104.12709
 
 url_pdf: ''
 url_code: ''
