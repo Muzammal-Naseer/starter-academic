@@ -45,7 +45,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: Code (Third Party)
+ - name: Code 
    url: https://github.com/MohamedAfham/RS_FSL
  - name: arXiv
    url: https://arxiv.org/abs/2104.12709
