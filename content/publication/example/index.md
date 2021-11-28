@@ -47,10 +47,14 @@ featured: true
 links:
  - name: Code
    url: https://github.com/Muzammal-Naseer/NRP
- - name: Video
-   url: https://drive.google.com/file/d/1qUSC0KXPqRFtP5QB9Y70_ZKXqfDFmA7W/view
  - name: arXiv
    url: https://arxiv.org/abs/1807.01216
+ - name: Video Presentation (1-min)
+   url: https://drive.google.com/file/d/1aXnRaZGcMZFbhIWKe3K6BiisYti75iOe/view?usp=sharing
+ - name: Video Presentation (5-min)
+   url: https://drive.google.com/file/d/1qUSC0KXPqRFtP5QB9Y70_ZKXqfDFmA7W/view?usp=sharing
+ - name: Poster
+   url: https://drive.google.com/file/d/1jpuXZZIhGpFrWcA8JvEzxqJ6A0kWphG2/view?usp=sharing
 
 url_pdf: ''
 url_code: ''
