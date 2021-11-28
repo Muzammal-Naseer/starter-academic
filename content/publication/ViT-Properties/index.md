@@ -50,8 +50,6 @@ links:
    url: https://github.com/Muzammal-Naseer/Intriguing-Properties-of-Vision-Transformers
  - name: arXiv
    url: https://arxiv.org/abs/2105.10497
- - name: Paper
-   url: https://openreview.net/pdf?id=o2mbl-Hmfgd
  - name: Reviews & Response
    url: https://openreview.net/forum?id=o2mbl-Hmfgd
  - name: Video Presentation
