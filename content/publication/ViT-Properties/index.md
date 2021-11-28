@@ -50,6 +50,12 @@ links:
    url: https://github.com/Muzammal-Naseer/Intriguing-Properties-of-Vision-Transformers
  - name: arXiv
    url: https://arxiv.org/abs/2105.10497
+ - name: Reviews & Response
+   url: https://openreview.net/forum?id=o2mbl-Hmfgd
+ - name: Video Presentation
+   url: https://neurips.cc/virtual/2021/poster/27802
+ - name: Poster
+   url: https://neurips.cc/media/PosterPDFs/NeurIPS%202021/c404a5adbf90e09631678b13b05d9d7a_ZnmODYn.png
 
 url_pdf: ''
 url_code: ''
