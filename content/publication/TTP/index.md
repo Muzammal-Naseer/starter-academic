@@ -50,6 +50,10 @@ links:
    url: https://github.com/Muzammal-Naseer/TTP
  - name: arXiv
    url: https://arxiv.org/abs/2103.14641
+ - name: Video Presentation
+   url: https://drive.google.com/file/d/1KSe9Zp6_uADkMgXQkHpoKtN85Q1sX_Wv/view?usp=sharing
+ - name: Poster
+   url: https://drive.google.com/file/d/1kIMIwUHcaHYpWiphHmT38_S0ruS2TrrG/view?usp=sharing
 
 url_pdf: ''
 url_code: ''
