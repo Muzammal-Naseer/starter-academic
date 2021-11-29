@@ -47,10 +47,10 @@ featured: true
 links:
  - name: Code
    url: https://github.com/Muzammal-Naseer/Cross-domain-perturbations
- - name: Poster
-   url: https://drive.google.com/file/d/1DLlHd963Ape3Fu2-5a7WaDQw2fwXpxpm/view?usp=sharing
  - name: arXiv
    url: https://arxiv.org/abs/1905.11736
+ - name: Poster
+   url: https://drive.google.com/file/d/1DLlHd963Ape3Fu2-5a7WaDQw2fwXpxpm/view?usp=sharing
 
 url_pdf: ''
 url_code: ''
