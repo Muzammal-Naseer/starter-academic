@@ -49,6 +49,8 @@ links:
    url: https://github.com/MohamedAfham/RS_FSL
  - name: arXiv
    url: https://arxiv.org/abs/2104.12709
+ - name: Video Presentation
+   url: https://www.bmvc2021-virtualconference.com/conference/papers/paper_0444.html
 
 url_pdf: ''
 url_code: ''
