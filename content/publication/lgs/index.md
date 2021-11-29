@@ -44,7 +44,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Code (Third Party)
-   url: https://github.com/metallurk/local_gradients_smoothing/blob/master/lgs.ipynb
+   url: https://github.com/Muzammal-Naseer/local_gradients_smoothing
  - name: arXiv
    url: https://arxiv.org/abs/1807.01216
 
