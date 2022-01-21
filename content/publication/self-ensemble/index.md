@@ -1,14 +1,13 @@
-
 ---
-title: "On Improving Adversarial Transferability of Vision Transformers" 
+title: "On Generating Transferable Targeted Perturbations" 
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
  - admin
- - Kanchana Ranasinghe
  - Salman Khan
+ - Munawar Hayat
  - Fahad Shahbaz Khan
  - Fatih Porikli
 
@@ -17,7 +16,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-01-01T00:00:00Z"
+date: "2021-07-01T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,13 +30,14 @@ date: "2022-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In * International Conference on Learning Representations, ICLR 2022*
-publication_short: In *ICLR*
+publication: In * International Conference on Computer Vision, ICCV 2021*
+publication_short: In *ICCV*
 
-abstract: Vision transformers (ViTs) 
+abstract: While the untargeted black-box transferability of adversarial perturbations has been extensively studied before, changing an unseen model's decisions to a specific targeted class remains a challenging feat. In this paper, we propose a new generative approach for highly transferable targeted perturbations (ours). We note that the existing methods are less suitable for this task due to their reliance on class-boundary information that changes from one model to another, thus reducing transferability. In contrast, our approach matches the perturbed image distribution' with that of the target class, leading to high targeted transferability rates. To this end, we propose a new objective function that not only aligns the global distributions of source and target images, but also matches the local neighbourhood structure between the two domains. Based on the proposed objective, we train a generator function that can adaptively synthesize perturbations specific to a given input. Our generative approach is independent of the source or target domain labels, while consistently performs well against state-of-the-art methods on a wide range of attack settings. As an example, we achieve 32.63% target transferability from (an adversarially weak) VGG19BN to (a strong) WideResNet on ImageNet val. set, which is 4x higher than the previous best generative attack and 16x better than instance-specific iterative attack. Code is available at [here](https://github.com/Muzammal-Naseer/TTP)
 
 # Summary. An optional shortened abstract.
-summary: <span style="font-size:120%;color:#117A65">**ICLR 2022**</span> <br> We propose effective strategies to convert an off-the-shelf Vision Transformer into an ensemble of models (self-ensemble) and further align these tokens (refined tokens) for the increase in discriminative abilities across these sub-models within a single ViT. We study adversarial transferability. Students/Researchers can explore the benefits of our approach in transfer learning or training a robust ViT.
+summary: <span style="font-size:120%;color:#117A65">**ICCV 2021**</span> <br> Adversarial generator trained to model global targeted adversarial patterns by matching source and target domains in the discriminator's latent space. Training does not require source/target labels or classfication scores. 
+# Patterns found via our method show high (black-box, zero knowledge about victim model) transferability to differnet network architectures, tranining mechanisms and defenses including against state-of-the-art input procressing.
 
 tags: []
 
@@ -47,9 +47,13 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Code
-   url: https://github.com/Muzammal-Naseer/On-Improving-Adversarial-Transferability-of-Vision-Transformers
+   url: https://github.com/Muzammal-Naseer/TTP
  - name: arXiv
-   url: https://arxiv.org/abs/2106.04169
+   url: https://arxiv.org/abs/2103.14641
+ - name: Video Presentation
+   url: https://drive.google.com/file/d/1KSe9Zp6_uADkMgXQkHpoKtN85Q1sX_Wv/view?usp=sharing
+ - name: Poster
+   url: https://drive.google.com/file/d/1kIMIwUHcaHYpWiphHmT38_S0ruS2TrrG/view?usp=sharing
 
 url_pdf: ''
 url_code: ''
