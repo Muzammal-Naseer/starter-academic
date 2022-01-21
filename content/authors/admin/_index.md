@@ -56,6 +56,7 @@ I submitted my Ph.D. thesis to Australian National University, Australia in 2020
 Currently, I am foucused on improving Adversarial Attacks and Defense methods, Attention based Modeling, and Few-shot Learning. My research includes applications to classification, segmentation, object detection and visual tracking.
 
 **News:**
+- **One ICLR 2022** paper accepted.
 - **One NeurIPS 2021** paper accepted (Spotlight).
 - **Two ICCV 2021** papers accepted.
 - **One BMVC 2021** paper accepted.
