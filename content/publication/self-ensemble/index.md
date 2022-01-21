@@ -47,13 +47,9 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Code
-   url: https://github.com/Muzammal-Naseer/TTP
+   url: https://github.com/Muzammal-Naseer/On-Improving-Adversarial-Transferability-of-Vision-Transformers
  - name: arXiv
-   url: https://arxiv.org/abs/2103.14641
- - name: Video Presentation
-   url: https://drive.google.com/file/d/1KSe9Zp6_uADkMgXQkHpoKtN85Q1sX_Wv/view?usp=sharing
- - name: Poster
-   url: https://drive.google.com/file/d/1kIMIwUHcaHYpWiphHmT38_S0ruS2TrrG/view?usp=sharing
+   url: https://arxiv.org/abs/2106.04169
 
 url_pdf: ''
 url_code: ''
