@@ -54,6 +54,6 @@ He also participated in other research projects related to Vision Transformers.
 
 - [Orthogonal Projection Loss](https://arxiv.org/abs/2103.14021) [ICCV, 2021]
 - [Intriguing Properties of Vision Transformers](https://arxiv.org/abs/2105.10497) [NeurIPS, 2021 (Spotlight)]
-- [On Improving Adversarial Transferability of Vision Transformers](https://arxiv.org/abs/2106.04169)
+- [On Improving Adversarial Transferability of Vision Transformers](https://arxiv.org/abs/2106.04169) [ICLR, 2022]
 
 ### Go To [Kanchana Ranasinghe's Website](https://kahnchana.github.io/)
