@@ -57,9 +57,9 @@ Currently, I am foucused on improving Adversarial Attacks and Defense methods, A
 
 **News:**
 - **One ICLR 2022** paper accepted.
-- **One NeurIPS 2021** paper accepted <span style="font-size:120%;color:#D35400">(Spotlight)</span>.
+- **One NeurIPS 2021** paper accepted (Spotlight).
 - **Two ICCV 2021** papers accepted.
 - **One BMVC 2021** paper accepted.
-- **One CVPR 2020** paper accepted <span style="font-size:120%;color:#D35400">(Oral)</span>.
+- **One CVPR 2020** paper accepted (Oral).
 - **One NeurIPS 2019** paper accepted.
 - **One WACV 2019** paper accepted.
