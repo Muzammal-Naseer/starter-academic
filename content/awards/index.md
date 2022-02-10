@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-<span style="font-size:40%;color:#117A65">**December 2019:**</span> <span style="font-size:70%;color:#D35400">**Student Travel Award by Conference on Neural Information Processing Systems (NeurIPS-2019) **</span> 
+<span style="font-size:50%;color:#117A65">December 2019:</span> <span style="font-size:80%;color:#D35400">Student Travel Award by Conference on Neural Information Processing Systems (NeurIPS-2019) </span> 
