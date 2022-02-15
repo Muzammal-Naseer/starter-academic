@@ -50,10 +50,26 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2011-01-01"
-  description: " Fully Funded M.Sc. scholarshipt for the period of two and half years."
+  description: " Fully funded M.Sc. scholarshipt for the period of two and half years."
   organization: Ministry of Higher Education, KSA
   organization_url: "https://www.moe.gov.sa/en/Pages/default.aspx"
   title: <span style="color:#6495ED">Master of Science Scholarship</span>
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2011-01-01"
+  description: " For outstanding performance and first class honors in B.Sc. Electrical Engineering."
+  organization: University of the Punjab (PU)
+  organization_url: "http://www.pu.edu.pk/"
+  title: <span style="color:#6495ED">Gold Medal</span>
+  url: ""
+- certificate_url: ""
+  date_end: "2009-01-01"
+  date_start: "2007-01-01"
+  description: "Awarded consistently for three years for the best student performance."
+  organization: University of the Punjab (PU)
+  organization_url: "http://www.pu.edu.pk/"
+  title: <span style="color:#6495ED">University Merit Scholarship</span>
   url: ""
 
 design:
