@@ -42,7 +42,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2017-06-01"
-  description: "Higer Degree Research (HDR) scholarship for the period of four years."
+  description: "Higher Degree Research (HDR) scholarship for the period of four years."
   organization: Australian National University (ANU)
   organization_url: "https://cecs.anu.edu.au/"
   title: <span style="color:#6495ED">Fee Remission Merit Scholarship</span>
@@ -50,7 +50,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2011-01-01"
-  description: " Fully funded M.Sc. scholarshipt for the period of two and half years."
+  description: " Fully funded M.Sc. scholarship for the period of two and half years."
   organization: Ministry of Higher Education, KSA
   organization_url: "https://www.moe.gov.sa/en/Pages/default.aspx"
   title: <span style="color:#6495ED">Master of Science Scholarship</span>
