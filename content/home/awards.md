@@ -34,17 +34,17 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2017-06-01"
-  description: PhD scholarship by Australian National University (ANU) for the period of three years.
+  description: "Ph.D. scholarship for the period of three years."
   organization: Australian National University (ANU)
   organization_url: "https://cecs.anu.edu.au/"
   title: <span style="color:#6495ED">Postgraduate Research Scholarship</span>
   url: ""
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
+- certificate_url: ""
+  date_end: ""
+  date_start: "2017-06-01"
+  description: "Higer Degree Research (HDR) scholarship for the period of four years."
+  organization: Australian National University (ANU)
+  organization_url: "https://cecs.anu.edu.au/"
   title: <span style="color:#6495ED">Fee Remission Merit Scholarship</span>
   url: ""
 
