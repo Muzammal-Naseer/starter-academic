@@ -34,7 +34,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2017-06-01"
-  description: "Ph.D. scholarship for the period of three years."
+  description: ""
   organization: Australian National University (ANU)
   organization_url: "https://cecs.anu.edu.au/"
   title: <span style="color:#6495ED">Postgraduate Research Scholarship</span>
@@ -42,7 +42,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2017-06-01"
-  description: "Higher Degree Research (HDR) scholarship for the period of four years."
+  description: ""
   organization: Australian National University (ANU)
   organization_url: "https://cecs.anu.edu.au/"
   title: <span style="color:#6495ED">Fee Remission Merit Scholarship</span>
@@ -50,7 +50,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2011-01-01"
-  description: " Fully funded M.Sc. scholarship for the period of two and half years."
+  description: ""
   organization: Ministry of Higher Education, KSA
   organization_url: "https://www.moe.gov.sa/en/Pages/default.aspx"
   title: <span style="color:#6495ED">Master of Science Scholarship</span>
@@ -58,7 +58,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2011-01-01"
-  description: " For outstanding performance and first class honors in B.Sc. Electrical Engineering."
+  description: ""
   organization: University of the Punjab (PU)
   organization_url: "http://www.pu.edu.pk/"
   title: <span style="color:#6495ED">Gold Medal</span>
@@ -66,7 +66,7 @@ item:
 - certificate_url: ""
   date_end: "2009-01-01"
   date_start: "2007-01-01"
-  description: "Awarded consistently for three years for the best student performance."
+  description: ""
   organization: University of the Punjab (PU)
   organization_url: "http://www.pu.edu.pk/"
   title: <span style="color:#6495ED">University Merit Scholarship</span>
