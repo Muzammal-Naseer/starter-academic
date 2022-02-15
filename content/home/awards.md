@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Awards
 subtitle:
 
 # Date format for experience
@@ -22,14 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: <span style="color:#6495ED">Research Intern</span>
-    company: Frequency Allocation Board (FAB)
+  - title: <span style="color:#6495ED">Student Travel Award</span>
+    company: NeurIPS
     company_url: ''
-    location: Pakistan
-    date_start: '2009-05-01'
-    date_end: '2009-06-30'
+    location: ''
+    date_start: '2009-12-01'
     description: |2-
-        - I worked with FAB team to develop the direction finding system for RF Interferers. This field research was a part of my BS thesis: "Spectrum Monitoring & Analysis of Interference in EGSM Networks".
+        - Student Travel Award by Conference on Neural Information Processing Systems (NeurIPS-2019).
   - title: <span style="color:#6495ED">Teaching Assistant</span>
     company: Department of Electrical Engineering, KFUPM
     company_url: ''
