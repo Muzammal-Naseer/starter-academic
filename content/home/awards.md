@@ -47,6 +47,14 @@ item:
   organization_url: "https://cecs.anu.edu.au/"
   title: <span style="color:#6495ED">Fee Remission Merit Scholarship</span>
   url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2011-01-01"
+  description: " Fully Funded M.Sc. scholarshipt for the period of two and half years."
+  organization: Ministry of Higher Education, KSA
+  organization_url: "https://www.moe.gov.sa/en/Pages/default.aspx"
+  title: <span style="color:#6495ED">Master of Science Scholarship</span>
+  url: ""
 
 design:
   columns: '2' 
