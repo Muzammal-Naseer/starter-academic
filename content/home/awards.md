@@ -24,9 +24,6 @@ date_format: Jan 2006
 experience:
   - title: <span style="color:#6495ED">Student Travel Award</span>
     company: NeurIPS
-    company_url: ''
-    location: ''
-    date_start: '2009-12-01'
     description: |2-
         - Student Travel Award by Conference on Neural Information Processing Systems (NeurIPS-2019).
   - title: <span style="color:#6495ED">Teaching Assistant</span>
