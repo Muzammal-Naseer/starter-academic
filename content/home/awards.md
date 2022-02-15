@@ -1,18 +1,41 @@
 ---
-# title: An example title
-summary: Here we describe how to add a page to your site.
-date: "2018-06-28T00:00:00Z"
+widget: accomplishments
+headless: true  # This file represents a page section.
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
+# ... Put Your Section Options Here (title etc.) ...
 
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: ""
----
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
-
-<span style="font-size:60%;olor:#117A65">**(December 2019)**</span> <span style="font-size:60%;color:#117A65">**Student Travel Award** </span> <span style="font-size:80%;">**by Conference on Neural Information Processing Systems (NeurIPS-2019)** </span> 
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin/end multi-line descriptions with `>-`.
+item:
+  - organization: Coursera
+    organization_url: 'https://www.coursera.org'
+    title: Neural Networks and Deep Learning
+    url: ''
+    certificate_url: 'https://www.coursera.org'
+    date_start: '2018-10-01'
+    date_end: ''
+    description: ''
+  - organization: edX
+    organization_url: 'https://www.edx.org'
+    title: Blockchain Fundamentals
+    url: >-
+      https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    certificate_url: 'https://www.edx.org'
+    date_start: '2018-03-01'
+    date_end: ''
+    description: 'Formulated informed blockchain models, hypotheses, and use cases.'
+  - organization: DataCamp
+    organization_url: 'https://www.datacamp.com'
+    title: 'Object-Oriented Programming in R: S3 and R6 Course'
+    url: ''
+    certificate_url: 'https://www.datacamp.com'
+    date_start: '2017-07-01'
+    date_end: '2017-12-21'
+    description: ''
