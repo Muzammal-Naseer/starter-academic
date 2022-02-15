@@ -25,11 +25,11 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2019-12-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Conference on Neural Information Processing Systems (NeurIPS)
+  organization_url: https://neurips.cc/
+  title: <span style="color:#6495ED">Student Travel Award</span>
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
