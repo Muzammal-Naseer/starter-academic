@@ -50,6 +50,10 @@ links:
    url: https://github.com/Muzammal-Naseer/On-Improving-Adversarial-Transferability-of-Vision-Transformers
  - name: arXiv
    url: https://arxiv.org/abs/2106.04169
+ - name: Reviews & Response
+   url: https://openreview.net/forum?id=D6nH3719vZy
+ - name: Poster
+   url: https://drive.google.com/file/d/1EC2aJEeQP2Wu0jemD2fJhOamaC1EoaFF/view?usp=sharing
 
 url_pdf: ''
 url_code: ''
