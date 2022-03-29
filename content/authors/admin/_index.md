@@ -56,7 +56,7 @@ I received my Ph.D. degree from Australian National University, Australia in 202
 Currently, I am foucused on improving Adversarial Attacks and Defense methods, Attention based Modeling, and Few-shot Learning. My research includes applications to classification, segmentation, object detection and visual tracking.
 
 **News:**
-- **One CVPR 2022** paper accepted.
+- **One CVPR 2022** paper accepted (Oral).
 - **One ICLR 2022** paper accepted (Spotlight).
 - **One NeurIPS 2021** paper accepted (Spotlight).
 - **Two ICCV 2021** papers accepted.
