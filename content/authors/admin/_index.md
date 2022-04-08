@@ -53,7 +53,7 @@ highlight_name: false
 
 I received my Ph.D. degree from Australian National University, Australia in 2022. My thesis was about "Novel Concepts and Designs for Adversarial Attacks and Defenses“. I am a researcher in the Computer Vision Lab at MBZUAI, UAE.
 
-Currently, I am foucused on video understanding, improving Adversarial Attacks and Defense methods, Attention based Modeling, and Few-shot Learning. My research includes applications to classification, segmentation, object detection and visual tracking.
+Currently, I am foucused on Video Understanding, improving Adversarial Attacks and Defense methods, Attention based Modeling, and Few-shot Learning. My research includes applications to classification, segmentation, object detection and visual tracking.
 
 **News:**
 - **One CVPR 2022** paper accepted (Oral).
