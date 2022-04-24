@@ -40,7 +40,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - Grad Students
+- Grad Students
 ---
 
 Mohamed Afham successfully completed a research project that improved **Few-shot learning** by introducing rich semantics through language description about the object classes.  I supervised him during his stay (6-months) at the Computer Vision Lab (CVL), MBZUAI as research assistant. 
