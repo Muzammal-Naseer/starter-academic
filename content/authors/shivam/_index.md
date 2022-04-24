@@ -43,7 +43,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Co-supervised Students
+- "Co-supervised Students"
 ---
 
 Shivam Chandhok is a research assistant at the Computer Vision Lab (CVL), MBZUAI. He is working on domain generalization within the framework of zero-shot learning.
