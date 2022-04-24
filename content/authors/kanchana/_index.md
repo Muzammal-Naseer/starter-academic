@@ -10,7 +10,7 @@ role: PhD Student, Stony Brook University
 
 # Organizations/Affiliations
 organizations:
-- name: Stony Brook University
+- name: Stony Brook University 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
