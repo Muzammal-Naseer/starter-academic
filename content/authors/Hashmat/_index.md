@@ -1,0 +1,55 @@
+---
+# Display name
+title: Hashmat Malik
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: MS/PhD Student, MBZUAI
+
+# Organizations/Affiliations
+organizations:
+- name: Mohamed bin Zayed University of AI 
+  url: ""
+
+# Short bio (displayed in user profile at end of posts)
+bio: My primary area of research is Adversarial Learning with emphasis on Adversarial Attacks and Defenses.
+
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=2Ft7r4AAAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/hashmat-shadab-malik-7a578b17b?originalSubdomain=ae
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Grad Students
+---
+
+Hashmat Malik is working to enhance cross-task, cross-data and cross-domain transferability of adversarial attacks which can lead to better insights about the blind spots of deep learning models..
+
+**Research Outputs**
+
+- To be announced
+
+### Go To [Hashmat Malik's Linkedin Profile(https://www.linkedin.com/in/hashmat-shadab-malik-7a578b17b?originalSubdomain=ae)
