@@ -46,7 +46,7 @@ user_groups:
 - Grad Students
 ---
 
-Hashmat Malik is working to enhance cross-task, cross-data and cross-domain transferability of adversarial attacks which can lead to better insights about the blind spots of deep learning models.
+Hashmat is working to enhance cross-task, cross-data and cross-domain transferability of adversarial attacks which can lead to better insights about the blind spots of deep learning models.
 
 **Research Outputs**
 
