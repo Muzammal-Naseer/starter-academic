@@ -46,7 +46,7 @@ user_groups:
 - Grad Students
 ---
 
-Hanan is working to understand how to extract complementary features from a given dataset. Particularly, how to optimize Neural Networks under data scarcity scenarios for the task of classification, segmentation, detection, or a combination of them all?
+Hanan is working to understand how to extract complementary features from a given dataset. His work focuses on optimizing Neural Networks under data scarcity scenarios for the task of classification, segmentation, detection, or a combination of them all.
 
 **Research Outputs**
 
