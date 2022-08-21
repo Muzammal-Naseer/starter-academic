@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 0
+weight: 50
 
 title: Experience
 subtitle:
@@ -21,8 +21,8 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: <span style="color:#6495ED">Research Intern</span>
+# experience:
+#  - title: <span style="color:#6495ED">Research Intern</span>
     company: Frequency Allocation Board (FAB)
     company_url: ''
     location: Pakistan
@@ -30,7 +30,7 @@ experience:
     date_end: '2009-06-30'
     description: |2-
         - I worked with FAB team to develop the direction finding system for RF Interferers. This field research was a part of my BS thesis: "Spectrum Monitoring & Analysis of Interference in EGSM Networks".
-  - title: <span style="color:#6495ED">Teaching Assistant</span>
+#  - title: <span style="color:#6495ED">Teaching Assistant</span>
     company: Department of Electrical Engineering, KFUPM
     company_url: ''
     location: Dhahran, Saudi Arabia
@@ -38,7 +38,7 @@ experience:
     date_end: '2013-05-28'
     description: |2-
         - I assisted in Control System Theory and Signal Processing courses for the period of one semester.
-  - title: <span style="color:#6495ED">Lecturer</span>
+#  - title: <span style="color:#6495ED">Lecturer</span>
     company: Department of Electrical Engineering - subcampus of KFUPM
     company_url: ''
     location: Hafr Al-Batin, Saudi Arabia
@@ -46,7 +46,7 @@ experience:
     date_end: '2017-06-30'
     description: |2-
         - I joined subcampus of KFUPM, now known as "University of Hafr Al-Batin" as a full-time lecturer to teach variety of Electrical Engineering courses.
-  - title: <span style="color:#6495ED">Research Assistant</span>
+#  - title: <span style="color:#6495ED">Research Assistant</span>
     company: Data61, CSIRO
     company_url: ''
     location: Canberra, Australia
@@ -54,7 +54,7 @@ experience:
     date_end: '2018-07-30'
     description: |2-
         - Developed new black-box attack methods for transferable adversarial perturbations for neural networks based vision systems.
-  - title: <span style="color:#6495ED">Research Assistant</span>
+#  - title: <span style="color:#6495ED">Research Assistant</span>
     company: Inception Institute of Artificial Intelligence
     company_url: ''
     location: Abu Dhabi, UAE
@@ -62,7 +62,7 @@ experience:
     date_end: '2020-03-15'
     description: |2-
         - Developed novel adversarial attack and defense algorithms for neural networks based vision systems.
-  - title: <span style="color:#6495ED">Researcher</span>
+#  - title: <span style="color:#6495ED">Researcher</span>
     company: Mohamed bin Zayed University of Artificial Intelligence
     company_url: ''
     location: Abu Dhabi, UAE
