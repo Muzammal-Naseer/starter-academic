@@ -51,6 +51,6 @@ Hashmat is working to enhance cross-task, cross-data and cross-domain transferab
 **Research Outputs**
 
 - [Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations
-](https://arxiv.org/abs/2207.08803) [BMVC--Oral, 2022]
+](https://arxiv.org/abs/2207.08803) [BMVC, 2022 (Oral)]
 
 ### Go To [Hashmat Malik's Linkedin Profile](https://www.linkedin.com/in/hashmat-shadab-malik-7a578b17b?originalSubdomain=ae)
