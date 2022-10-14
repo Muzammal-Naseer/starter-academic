@@ -50,6 +50,6 @@ Hanan is working to understand how to extract complementary features from a give
 
 **Research Outputs**
 
-- To be announced
+- [How to Train Vision Transformer on Small-scale Datasets?](https://arxiv.org/abs/2210.07240v1) [BMVC, 2022]
 
 ### Go To [Hanan Gani's Linkedin Profile](https://www.linkedin.com/in/hanan-gani-269a73134/?originalSubdomain=in)
