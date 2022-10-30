@@ -16,7 +16,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-01-01T00:00:00Z"
+date: "2022-00-01T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -37,7 +37,7 @@ abstract: Transferable adversarial attacks optimize adversaries from a pretraine
  
 
 # Summary. An optional shortened abstract.
-summary: <span style="font-size:120%;color:#117A65">**BMVC 2022**</span>, <span style="font-size:120%;color:#D35400">**Oral**</span> <br> self-supervised adversarial training with few samples for transferable adversarial attacks.
+summary: <span style="font-size:120%;color:#117A65">**BMVC 2022**</span>, <span style="font-size:120%;color:#D35400">**Oral**</span> <br> self-supervised adversarial training for transferable attacks.
 
 tags: []
 
