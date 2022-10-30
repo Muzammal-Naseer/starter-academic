@@ -35,7 +35,8 @@ abstract: Transferable adversarial attacks optimize adversaries from a pretraine
  
 
 # Summary. An optional shortened abstract.
-summary: <span style="font-size:120%;color:#117A65">**BMVC 2022**</span>, <span style="font-size:120%;color:#D35400">**Oral**</span> <br> Self-supervised adversarial training for transferable attacks.
+summary: <span style="font-size:120%;color:#117A65">**BMVC 2022**</span> <br> Self-supervision to learn inductive biases from small data for Vision Transformer.
+
 
 tags: []
 
