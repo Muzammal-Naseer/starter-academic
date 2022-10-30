@@ -45,9 +45,9 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Code
-   url: https://github.com/HashmatShadab/APR
+   url: https://github.com/hananshafi/vits-for-small-scale-datasets
  - name: arXiv
-   url: https://arxiv.org/abs/2207.08803
+   url: https://arxiv.org/abs/2210.07240v1
 
 url_pdf: ''
 url_code: ''
