@@ -36,7 +36,7 @@ publication_short: In *TPAMI*
 abstract: Deep Convolution Neural Networks (CNNs) can easily be fooled by subtle, imperceptible changes to the input images. To address this vulnerability, adversarial training creates perturbation patterns and includes them in the training set to robustify the model. In contrast to existing adversarial training methods that only use class-boundary information (e.g., using a cross-entropy loss), we propose to exploit additional information from the feature space to craft stronger adversaries that are in turn used to learn a robust model.  Specifically, we use the \emph{style} and \emph{content} information of the target sample from another class, alongside its class-boundary information to create adversarial perturbations. We apply our proposed \emph{multi-task} objective in a deeply supervised manner, extracting multi-scale feature knowledge to create maximally separating adversaries. Subsequently, we propose a max-margin adversarial training approach that minimizes the distance between source image and its adversary and maximizes the distance between the adversary and the target image. Our adversarial training approach demonstrates strong robustness compared to state-of-the-art defenses, generalizes well to naturally occurring corruptions and data distributional shifts, and retains the model’s accuracy on clean examples. 
 
 # Summary. An optional shortened abstract.
-summary: <span style="font-size:120%;color:#117A65">**CVPR 2022**</span>, <span style="font-size:120%;color:#D35400">**Oral**</span> <br> Self-supervised spatiotemporal view matching for video understanding.
+summary: <span style="font-size:120%;color:#117A65">**TPAMI 2022**</span> <br> Target-aware adversarial training with style, content, and boundary loss.
 
 tags: []
 
@@ -46,9 +46,9 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Code
-   url: https://github.com/kahnchana/svt
+   url: https://github.com/Muzammal-Naseer/SAT
  - name: arXiv
-   url: https://arxiv.org/abs/2112.01514
+   url: https://arxiv.org/abs/2007.14672
 
 url_pdf: ''
 url_code: ''
