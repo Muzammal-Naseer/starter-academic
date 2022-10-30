@@ -31,7 +31,8 @@ publication_types: ["1"]
 publication: In * British Machine Vision Conference, BMVC 2022*
 publication_short: In *BMVC*
 
-abstract: Vision Transformer (ViT), a radically different architecture than convolutional neural networks offers multiple advantages including design simplicity, robustness and state-of-the-art performance on many vision tasks.  However, in contrast to convolutional neural networks, Vision Transformer lacks inherent inductive biases. Therefore, successful training of such models is mainly attributed to pre-training on large-scale datasets such as ImageNet with 1.2M  or JFT  with 300M images. 
+abstract: Vision Transformer (ViT), a radically different architecture than convolutional neural networks offers multiple advantages including design simplicity, robustness and state-of-the-art performance on many vision tasks.  However, in contrast to convolutional neural networks, Vision Transformer lacks inherent inductive biases. Therefore, successful training of such models is mainly attributed to pre-training on large-scale datasets such as ImageNet with 1.2M  or JFT  with 300M images. This hinders the direct adaption of Vision Transformer for small-scale datasets. In this work, we show that self-supervised inductive biases can be learned directly from small-scale datasets and serve as an effective weight initialization scheme for fine-tuning. 
+
 
 # Summary. An optional shortened abstract.
 summary: <span style="font-size:120%;color:#117A65">**BMVC 2022**</span> <br> Self-supervision to learn inductive biases from small data for Vision Transformer.
