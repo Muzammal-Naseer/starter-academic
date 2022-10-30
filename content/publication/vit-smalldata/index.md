@@ -5,9 +5,11 @@ title: "How to Train Vision Transformer on Small-scale Datasets?"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
- - Hanan Gani
+ - Hashmat Shadab Malik
+ - Shahina Kunhimon
  - admin
- - Mohammad Yaqub
+ - Salman Khan
+ - Fahad Shahbaz Khan
 
 # Author notes (optional)
 # author_notes:
@@ -31,10 +33,11 @@ publication_types: ["1"]
 publication: In * British Machine Vision Conference, BMVC 2022*
 publication_short: In *BMVC*
 
-abstract: Vision Transformer (ViT), a radically different architecture than convolutional neural networks offers multiple advantages including design simplicity, robustness and state-of-the-art performance on many vision tasks. However, in contrast to convolutional neural networks, Vision Transformer lacks inherent inductive biases. Therefore, successful training of such models is mainly attributed to pre-training on large-scale datasets such as ImageNet with 1.2M or JFT with 300M images. This hinders the direct adaption of Vision Transformer for small-scale datasets. In this work, we show that self-supervised inductive biases can be learned directly from small-scale datasets and serve as an effective weight initialization scheme for fine tuning. This allows to train these models without large scale pre-training, changes to model architecture or loss functions. We present thorough experiments to successfully train monolithic and non-monolithic Vision Transformers on five small datasets including CIFAR10/100, CINIC-10, SVHN, Tiny-ImageNet and two fine-grained datasets: Aircarft and Cars. Our approach consistently improves the performance while retaining their properties such as attention to salient regions and higher robustness.
+abstract: Transferable adversarial attacks optimize adversaries from a pretrained surrogate model and known label space to fool the unknown black-box models. Therefore, these attacks are restricted by the availability of an effective surrogate model. In this work, we relax this assumption and propose Adversarial Pixel Restoration as a self-supervised alternative to train an effective surrogate model from scratch under the condition of no labels and few data samples. Our training approach is based on a min-max scheme which reduces overfitting via an adversarial objective and thus optimizes for a more generalizable surrogate model. Our proposed attack is complimentary to the adversarial pixel restoration and is independent of any task specific objective as it can be launched in a self-supervised manner. We successfully demonstrate the adversarial transferability of our approach to Vision Transformers as well as Convolutional Neural Networks for the tasks of classification, object detection, and video segmentation. Our training approach improves the transferability of the baseline unsupervised training method by 16.4% on ImageNet val. set.
+ 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: <span style="font-size:120%;color:#117A65">**BMVC 2022**</span>, <span style="font-size:120%;color:#D35400">**Oral**</span> <br> Self-supervised adversarial training for transferable attacks.
 
 tags: []
 
@@ -44,9 +47,9 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Code
-   url: https://github.com/hananshafi/vits-for-small-scale-datasets
+   url: https://github.com/HashmatShadab/APR
  - name: arXiv
-   url: https://arxiv.org/abs/2210.07240v1
+   url: https://arxiv.org/abs/2207.08803
 
 url_pdf: ''
 url_code: ''
