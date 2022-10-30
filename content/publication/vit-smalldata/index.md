@@ -39,8 +39,7 @@ weight initialization scheme for fine-tuning. This allows to train these models 
 large-scale pre-training, changes to model architecture or loss functions. We present thorough experiments to successfully train monolithic and non-monolithic Vision Transformers on five small datasets including CIFAR10/100, CINIC10, SVHN, Tiny-ImageNet and
 two fine-grained datasets: Aircraft and Cars. Our approach consistently improves the
 performance of Vision Transformers while retaining their properties such as attention to
-salient regions and higher robustness. Our codes and pre-trained models are available [here](https://github.com/hananshafi/vits-for-small-scale-datasets).
- 
+salient regions and higher robustness. 
 
 # Summary. An optional shortened abstract.
 summary: <span style="font-size:120%;color:#117A65">**BMVC 2022**</span> <br> Self-supervision to learn inductive biases from small data for Vision Transformer.
