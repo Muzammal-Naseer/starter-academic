@@ -44,7 +44,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Code
-   url: https://github.com/hananshafi/vits-for-small-scale-datasets
+   url: 
  - name: arXiv
    url: https://arxiv.org/abs/2210.07240v1
 
