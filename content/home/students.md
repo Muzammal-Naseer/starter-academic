@@ -13,19 +13,16 @@ weight: 30
 title: Co-supervised Students
 subtitle:
 
-content:
-  # Page type to display. E.g. post, talk, publication...
-  user_groups: ["Co-supervised Students"]
 
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  # user_groups: 
-  # - Principal Investigators
-  # - Researcher Interns
-  # - Grad Students
-  # - Administration
-  # - Visitors
-  # - Alumni
+  user_groups: 
+   - Principal Investigators
+   - Researcher Interns
+   - Grad Students
+   - Administration
+   - Visitors
+   - Alumni
 design:
   show_interests: false
   show_social: true
