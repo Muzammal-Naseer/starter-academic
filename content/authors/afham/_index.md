@@ -2,6 +2,10 @@
 # Display name
 title: Mohamed Afham
 
+# Username (this should match the folder name)
+authors:
+- afham
+
 # Is this the primary user of the site?
 superuser: false
 
