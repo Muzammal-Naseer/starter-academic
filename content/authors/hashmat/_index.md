@@ -2,6 +2,10 @@
 # Display name
 title: Hashmat Malik
 
+# Username (this should match the folder name)
+authors:
+- hashmat
+
 # Is this the primary user of the site?
 superuser: false
 
