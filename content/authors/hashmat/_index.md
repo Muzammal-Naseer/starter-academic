@@ -43,7 +43,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Co-supervised PhD Students"
+- "Co-supervised Students"
 ---
 
 Hashmat is working to enhance cross-task, cross-data and cross-domain transferability of adversarial attacks which can lead to better insights about the blind spots of deep learning models.
