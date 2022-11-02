@@ -13,6 +13,7 @@ title: Co-supervised Students
 subtitle:
 
 content:
+  # Page type to display. E.g. post, talk, publication...
   user_groups: ["Co-supervised Students"]
 
   # Choose which groups/teams of users to display.
