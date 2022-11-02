@@ -47,7 +47,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Co-supervised Students"
+- Grad Students
 ---
 
 Hanan is working to understand how to extract complementary features from a given dataset. His work focuses on optimizing Neural Networks under data scarcity scenarios for the task of classification, segmentation, detection, or a combination of them all.
