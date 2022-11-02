@@ -43,7 +43,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- "Co-supervised PhD Students"
 ---
 
 Kanchana Ranasinghe desinged a novel loss function **"Othogonal Projection Loss"** that enforces orthogonality in the feature space and enhances the performance & robustness of neural networks. I supervised him during his stay (8-months) at the Computer Vision Lab (CVL), MBZUAI as research assistant. 
