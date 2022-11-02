@@ -2,6 +2,10 @@
 # Display name
 title: Hanan Gani 
 
+# Username (this should match the folder name)
+authors:
+- hanan
+
 # Is this the primary user of the site?
 superuser: false
 
