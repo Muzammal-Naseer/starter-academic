@@ -2,6 +2,10 @@
 # Display name
 title: Kanchana Ranasinghe
 
+# Username (this should match the folder name)
+authors:
+- kanchana
+
 # Is this the primary user of the site?
 superuser: false
 
