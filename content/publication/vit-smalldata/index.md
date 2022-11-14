@@ -52,7 +52,7 @@ links:
  - name: Video Presentation
    url: https://drive.google.com/file/d/1oA0C_AAeGzwQogvsJHyWPE8CGOCQYkFG/view
  - name: Poster
-   url: https://neurips.cc/media/PosterPDFs/NeurIPS%202021/c404a5adbf90e09631678b13b05d9d7a_ZnmODYn.png
+   url: https://drive.google.com/file/d/1eywuOkHPbH3bJhC7_kwBvyfI29jxfAkv/view
 
 
 url_pdf: ''
