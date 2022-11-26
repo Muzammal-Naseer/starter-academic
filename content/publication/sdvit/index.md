@@ -52,7 +52,7 @@ links:
  - name: Video Presentation
    url: https://drive.google.com/file/d/1P0HsmlZSwX94fYs72UP9vcFeYGp7ZDeF/view
  - name: Poster
-   url: https://drive.google.com/file/d/1MBe7aM6M9sNhbv6f94d7UkvzseJJDw2i/view
+   url: https://drive.google.com/file/d/1MBe7aM6M9sNhbv6f94d7UkvzseJJDw2i/view?usp=share_link
 
 url_pdf: ''
 url_code: ''
