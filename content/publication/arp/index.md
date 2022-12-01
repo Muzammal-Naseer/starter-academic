@@ -50,8 +50,6 @@ links:
    url: https://github.com/HashmatShadab/APR
  - name: arXiv
    url: https://arxiv.org/abs/2207.08803
- - name: arXivv
-   url: https://arxiv.org/abs/2207.08803
 
 url_pdf: ''
 url_code: ''
