@@ -50,6 +50,10 @@ links:
    url: https://github.com/HashmatShadab/APR
  - name: arXiv
    url: https://arxiv.org/abs/2207.08803
+ - name: Video Presentation
+   url: https://drive.google.com/file/d/1ECkp_lbMj5Pz7RX_GgEvWWDHf5PUXlFd/view
+ - name: Poster
+   url: https://drive.google.com/file/d/1Rwy3PaBQa-6oxXmJTmr9yq07cUMbsCgA/view
 
 url_pdf: ''
 url_code: ''
