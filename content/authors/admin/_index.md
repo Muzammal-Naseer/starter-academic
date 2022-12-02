@@ -61,6 +61,3 @@ Currently, my research focuses on Self-supervised video understanding, methods t
 - **One CVPR 2022** paper accepted (Oral).
 - **One ICLR 2022** paper accepted (Spotlight).
 - **One NeurIPS 2021** paper accepted (Spotlight).
-- **Two ICCV 2021** papers accepted.
-- **One CVPR 2020** paper accepted (Oral).
-- **One NeurIPS 2019** paper accepted.
