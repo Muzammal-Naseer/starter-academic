@@ -47,8 +47,6 @@ links:
    url: https://github.com/Muzammal-Naseer/local_gradients_smoothing
  - name: arXiv
    url: https://arxiv.org/abs/1807.01216
- - name: arXivvv
-   url: https://arxiv.org/abs/1807.01216
 
 url_pdf: ''
 url_code: ''
