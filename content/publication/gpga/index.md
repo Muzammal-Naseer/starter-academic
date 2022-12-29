@@ -45,7 +45,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: Paper
+ - name: arXiv
    url: https://ieeexplore.ieee.org/abstract/document/9825707
 
 url_pdf: ''
