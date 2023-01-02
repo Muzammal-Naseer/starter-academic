@@ -53,9 +53,11 @@ highlight_name: false
 
 I received my Ph.D. degree from Australian National University, Australia in 2020. My thesis was about "Novel Concepts and Designs for Adversarial Attacks and Defenses“. I am a researcher in the Computer Vision Lab at MBZUAI, UAE.
 
+I am working on Explainability, Self-supervision, Generative modeling, and Network optimization for image/video understanding, network training stability, adversarial attacks/defenses, domain generalization, and privacy-preserving. My research includes applications to object/face recognition, detection, and segmentation.
 
+-->
 My research focuses on Self-supervised image/video understanding, methods to improve adversarial attacks and defenses, analyzing Neural behavioural patterns observed via attention and the effect of multi-modalities. My research includes applications to object recognition, detection, and segmentation.
-
+-->
 **News:**
 - **One TPAMI 2022** paper accepted.
 - **One CVPR 2022** paper accepted (Oral).
