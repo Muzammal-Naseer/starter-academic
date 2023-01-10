@@ -53,7 +53,7 @@ highlight_name: false
 
 I received my Ph.D. degree from Australian National University, Australia in 2020. My thesis was about "Novel Concepts and Designs for Adversarial Attacks and Defenses“. I am a researcher in the Computer Vision Lab at MBZUAI, UAE.
 
- My research focuses on developing AI-based agents with robust perception with language-guided multi-modal learning within changing environments over time, self-supervised learning for spatial and temporal modeling, out-of-domain generalization, AI security, and privacy-preserving. My research includes applications for robot navigation, tracking, and scene understanding with recognition, detection, and segmentation.
+ My research focuses on developing AI-based agents with robust perception with language-guided multi-modal learning, self-supervised learning for spatial and temporal modeling, out-of-domain generalization, AI security, and privacy-preserving. My research includes applications for robot navigation, tracking, and scene understanding with recognition, detection, and segmentation.
 
 
 
