@@ -50,7 +50,7 @@ user_groups:
 - Grad Students
 ---
 
-Kanchana Ranasinghe desinged a novel loss function **"Othogonal Projection Loss"** that enforces orthogonality in the feature space and enhances the performance & robustness of neural networks. I supervised him during his stay (8-months) at the Computer Vision Lab (CVL), MBZUAI as research assistant. 
+Kanchana Ranasinghe designed a novel loss function **"Orthogonal Projection Loss"** that enforces orthogonality in the feature space and enhances the performance & robustness of neural networks. I supervised him during his stay at MBZUAI as a research associate.    
 
 He also participated in other research projects related to Vision Transformers.
 
