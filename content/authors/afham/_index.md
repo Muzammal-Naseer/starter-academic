@@ -47,7 +47,7 @@ user_groups:
 - Grad Students
 ---
 
-Mohamed Afham successfully completed a research project that improved **Few-shot learning** by introducing rich semantics through language description about the object classes.  I supervised him during his stay (6-months) at the Computer Vision Lab (CVL), MBZUAI as research assistant. 
+Mohamed Afham completed a research project that improved **Few-shot learning** by introducing rich semantics through language descriptions about the object classes.  I supervised him during his stay at MBZUAI as a research associate.  
 
 **Research Outputs**
 
