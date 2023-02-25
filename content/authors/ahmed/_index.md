@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mohamed Afham
+title: Ahmad Mahmood
 
 # Username (this should match the folder name)
 authors:
@@ -47,11 +47,11 @@ user_groups:
 - Grad Students
 ---
 
-Mohamed Afham completed a research project to understand and enhance adversarial transferability from image to video models.  I supervised him during his stay at MBZUAI as a research associate.  
+Ahmad Mahmood completed a research project to understand and enhance adversarial transferability from image to video models.  I supervised him during his stay at MBZUAI as a research associate.  
 
 **Research Outputs**
 
 - [Boosting Adversarial Transferability using Dynamic Cues](https://arxiv.org/abs/2302.12252) [ICLR, 2023]
 
-### Go To [Mohamed Afham's Linkedin Profile](https://www.linkedin.com/in/ahmad-mahmood-81339a212/)
+### Go To [Ahmad Mahmood,'s Linkedin Profile](https://www.linkedin.com/in/ahmad-mahmood-81339a212/)
 
