@@ -53,5 +53,5 @@ Ahmad Mahmood completed a research project to understand and enhance adversarial
 
 - [Boosting Adversarial Transferability using Dynamic Cues](https://arxiv.org/abs/2302.12252) [ICLR, 2023]
 
-### Go To [Ahmad Mahmood,'s Linkedin Profile](https://www.linkedin.com/in/ahmad-mahmood-81339a212/)
+### Go To [Ahmad Mahmood's Linkedin Profile](https://www.linkedin.com/in/ahmad-mahmood-81339a212/)
 
