@@ -4,7 +4,7 @@ title: Ahmad Mahmood
 
 # Username (this should match the folder name)
 authors:
-- afham
+- Ahmad
 
 # Is this the primary user of the site?
 superuser: false
