@@ -50,7 +50,7 @@ user_groups:
 - Grad Students
 ---
 
-Sheng works on vision problems within open-set constraints. He is developing algorithms to discover novel categories during training and testing.  
+Talal works in video understanding. He is developing adapter modules to align pre-trained foundational vision language models with videos without compromising their zero-shot performance. He is also working on efficient models for temporal modeling for videos.
 
 **Research Outputs**
 
