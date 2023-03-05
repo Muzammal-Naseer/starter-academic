@@ -50,7 +50,7 @@ user_groups:
 - Grad Students
 ---
 
-Fahad works in adversarial learning. He is exploring the connections between generative models, transferable adversarial attacks, and vision language models for adversarial manuplulation of visual inputs (image/video) through human language instructions.
+Fahad works in adversarial learning. He is exploring the connections between generative models, transferable adversarial attacks, and vision language models for adversarial manipulation of visual inputs (image/video) through human language instructions.
 
 **Research Outputs**
 
