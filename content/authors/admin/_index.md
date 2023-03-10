@@ -57,7 +57,7 @@ I received my Ph.D. degree from Australian National University, Australia in 202
 
 
 
-**⚡ Top-Venue Publications:**
+**⚡ Top-Venue:**
 - **Three CVPR 2023** papers accepted.
 - **One ICLR 2023** paper accepted.
 - **One TPAMI 2022** paper accepted.
