@@ -61,7 +61,7 @@ I received my Ph.D. degree from Australian National University, Australia in 202
 - **Three CVPR 2023** papers accepted.
 - **One ICLR 2023** paper accepted.
 - **One TPAMI 2022** paper accepted.
-- **One CVPR 2022** paper accepted (Oral).
+- **One CVPR 2022** paper accepted (<span style="color:#D35400">**Oral**</span>).
 - **One ICLR 2022** paper accepted (Spotlight).
 - **One NeurIPS 2021** paper accepted (Spotlight).
 - **Two ICCV 2021** papers accepted.
