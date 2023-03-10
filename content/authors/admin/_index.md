@@ -67,3 +67,6 @@ I received my Ph.D. degree from Australian National University, Australia in 202
 - **Two ICCV 2021** papers accepted.
 - **One CVPR 2020** paper accepted (Oral).
 - **One NeurIPS 2019** paper accepted.
+<hr>
+- **One BMVC 2022** paper accepted (Oral).
+- **One ACCV 2022** paper accepted (Oral).
