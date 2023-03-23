@@ -54,7 +54,8 @@ Fahad works in adversarial learning. He is exploring the connections between gen
 
 **Research Outputs**
 
-- [Protecting Facial Privacy Using Makeup Text-Guided Adversarial Latent Search]() [CVPR, 2023]
+- [CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via
+Adversarial Latent Search]() [CVPR, 2023]
 
 ### Go To [Fahad Shamshad's Website](https://fahadshamshad.github.io/)
 
