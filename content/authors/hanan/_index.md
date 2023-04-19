@@ -47,7 +47,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Master Students
 ---
 
 Hanan is working to understand how to combine and optimize self-supervised and supervised objectives for the label-efficient learning. His work focuses on optimizing Neural Networks under data scarcity scenarios for the task of classification, segmentation, and detection.
