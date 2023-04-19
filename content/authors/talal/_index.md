@@ -47,7 +47,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Researcher Associates
 ---
 
 Talal works in video understanding. He is developing adapter modules to align pre-trained foundational vision language models with videos without compromising their zero-shot performance. He is also working on efficient models for temporal modeling for videos.
