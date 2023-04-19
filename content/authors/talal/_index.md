@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Incoming PhD student, University of Bonn
+role: PhD student, University of Bonn
 
 # Organizations/Affiliations
 organizations:
