@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Incoming PhD student, MBZUAI
+role: PhD student, MBZUAI
 
 # Organizations/Affiliations
 organizations:
