@@ -18,8 +18,10 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups: 
    - Principal Investigators
-   - Grad Students
+   - PhD Students
+   - Master Students
    - Researcher Associates
+   - Grad Students
    - Administration
    - Visitors
    - Alumni
