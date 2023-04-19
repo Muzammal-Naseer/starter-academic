@@ -47,7 +47,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- PhD Students
 ---
 
 Fahad works in adversarial learning. He is exploring the connections between generative models, transferable adversarial attacks, and vision language models for adversarial manipulation of visual inputs (image/video) through human language instructions.
