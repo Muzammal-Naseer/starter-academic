@@ -44,7 +44,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- "Co-supervised PhD Students"
 ---
 
 Mohamed Afham completed a research project that improved **Few-shot learning** by introducing rich semantics through language descriptions about the object classes.  I supervised him during his stay at MBZUAI as a research associate.  
