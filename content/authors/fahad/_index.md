@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student, MBZUAI
+role: PhD student, MBZUAI,  <span style="color:#117A65">1xCVPR</span>
 
 # Organizations/Affiliations
 organizations:
-- name: Mohamed bin Zayed University of AI 
+- name: Mohamed bin Zayed University of AI
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
