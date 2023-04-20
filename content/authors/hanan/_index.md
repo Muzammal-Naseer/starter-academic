@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS Student, MBZUAI
+role: MS Student, MBZUAI, <span style="color:#117A65">1xBMVC</span>
 
 # Organizations/Affiliations
 organizations:
