@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BS Student, Lahore University of Management Sciences
+role: BS Student, Lahore University of Management Sciences,  <span style="color:#117A65">1xICLR</span>
 
 # Organizations/Affiliations
 organizations:
