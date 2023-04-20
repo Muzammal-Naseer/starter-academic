@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student, University of Bonn
+role: PhD student, University of Bonn, <span style="font-size:120%;color:#3380FF">**1xCVPR%**</span>
 
 # Organizations/Affiliations
 organizations:
