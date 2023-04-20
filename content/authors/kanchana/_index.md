@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student, Stony Brook University
+role: PhD Student, Stony Brook University <span style="color:#117A65">1xICCV, 1xNeurIPS, 1xICLR</span>
 
 # Organizations/Affiliations
 organizations:
