@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 # role: BS Student, Lahore University of Management Sciences,  <span style="color:#117A65">1xICLR</span>
-role: Before joining, he was a BS student at the Lahore University of Management Sciences. He went on to join ETH Zurich as a Master's Student. He published <span style="font-size:120%;color:#117A65">**1xICLR**</span> paper with us.
+role: Before joining, he was a BS student at the Lahore University of Management Sciences. He went on to join <span style="color:#D35400">**ETH Zurich**</span> as a Master's Student. He published <span style="color:#117A65">**1xICLR**</span> paper with us.
   
 
 # Organizations/Affiliations
