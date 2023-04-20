@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 # role: PhD Student, Stony Brook University, <span style="color:#117A65">1xICCV, 1xNeurIPS, 1xICLR</span>
-role: Before joining, he was a Machine Learning Engineer at VeracityAI. He went on to join <span style="color:#D35400">**Stony Brook University**</span> as a PhD Student. He published <span style="color:#117A65">**1xICCV, 1xNeurIPS, 1xICLR**</span> papers with us.
+role: Before joining, he was a Machine Learning Engineer at VeracityAI. He went on to join <span style="color:#D35400">**Stony Brook University**</span> as a PhD student. He published <span style="color:#117A65">**1xICCV, 1xNeurIPS, 1xICLR**</span> papers with us.
 
 # Organizations/Affiliations
 organizations:
