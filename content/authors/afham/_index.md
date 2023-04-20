@@ -10,7 +10,9 @@ authors:
 superuser: false
 
 # Role/position
-role: BS Student, University of Moratuwa,  <span style="color:#117A65">1xBMVC</span>
+# role: BS Student, University of Moratuwa,  <span style="color:#117A65">1xBMVC</span>
+role: Before joining, he was a  BS student at University of Moratuwa. He went on to join <span style="color:#D35400">**Meta AI residency program**</span>. He published <span style="color:#117A65">**1xBMVC**</span> paper with us.
+
 
 # Organizations/Affiliations
 organizations:
