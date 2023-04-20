@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BS Student, University of Moratuwa
+role: BS Student, University of Moratuwa,  <span style="color:#117A65">1xBMVC</span>
 
 # Organizations/Affiliations
 organizations:
