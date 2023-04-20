@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student, University of Bonn, Output: <span style="color:#117A65">**1xCVPR**</span>
+role: PhD student, University of Bonn, <span style="color:#117A65">**1xCVPR**</span>
 
 # Organizations/Affiliations
 organizations:
