@@ -10,7 +10,8 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student, University of Bonn, <span style="color:#117A65">1xCVPR</span>
+# role: PhD student, University of Bonn, <span style="color:#117A65">1xCVPR</span>
+role: Before joining, he was a  Master student at EPFL. He went on to join <span style="color:#D35400">**University of Bonn**</span>. He published <span style="color:#117A65">**1xCVPR**</span> paper with us.
 
 # Organizations/Affiliations
 organizations:
