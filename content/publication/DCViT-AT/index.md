@@ -34,8 +34,6 @@ publication_short: In *ICLR*
 
 abstract: Deep neural networks are vulnerable to adversarial attacks. We can develop more reliable AI models by analyzing blind spots across different architectures, datasets, and tasks using transferable adversarial attacks. This year ICLR'23, we will present a method to study adversarial blind spots of video models by transferring adversarial perturbations from Image to Video and Multi-view models. 
 
-Paper: https://openreview.net/forum?id=SZynfVLGd5
-Code: https://github.com/Muzammal-Naseer/DCViT-AT
 
 We show that we can re-configure a pre-trained Vision Transformer (ViT) by inducing dynamic cues to give the model the ability to recognize an action in a video (e.g., Kinetics) or a 3D object (e.g., ModelNet40 ) without losing the original pre-trained image solution (e.g., ImageNet). 
 
