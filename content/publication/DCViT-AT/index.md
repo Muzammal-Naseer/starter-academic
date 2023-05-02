@@ -32,7 +32,17 @@ publication_types: ["1"]
 publication: In * International Conference on Learning Representations, ICLR 2023*
 publication_short: In *ICLR*
 
-abstract: The transferability of adversarial perturbations between image models has been extensively studied. In this case, an attack is generated from a known surrogate \eg, the ImageNet trained model, and transferred to change the decision of an unknown (black-box) model trained on an image dataset. However, attacks generated from image models do not capture the dynamic nature of a moving object or a changing scene due to a lack of temporal cues within image models. This leads to reduced transferability of adversarial attacks from representation-enriched \emph{image} models such as Supervised Vision Transformers (ViTs), Self-supervised ViTs (\eg, DINO), and Vision-language models (\eg, CLIP) to black-box \emph{video} models. In this work, we induce dynamic cues within the image models without sacrificing their original performance on images. To this end, we optimize \emph{temporal prompts} through frozen image models to capture motion dynamics. Our temporal prompts are the result of a learnable transformation that allows optimizing for temporal gradients during an adversarial attack to fool the motion dynamics. Specifically, we introduce spatial (image) and temporal (video) cues within the same source model through task-specific prompts. Attacking such prompts maximizes the adversarial transferability from image-to-video and image-to-image models using the attacks designed for image models. As an example, an iterative attack launched from image model Deit-B with temporal prompts reduces generalization (top1 % accuracy) of a video model by 35% on Kinetics-400. Our approach also improves adversarial transferability to image models by 9% on ImageNet w.r.t the current state-of-the-art approach. Our attack results indicate that the attacker does not need specialized architectures, \eg, divided space-time attention, 3D convolutions, or multi-view convolution networks for different data modalities. Image models are effective surrogates to optimize an adversarial attack to fool black-box models in a changing environment over time.
+Deep neural networks are vulnerable to adversarial attacks. We can develop more reliable AI models by analyzing blind spots across different architectures, datasets, and tasks using transferable adversarial attacks. This year @ICLR'23, we will present a method to study adversarial blind spots of video models by transferring adversarial perturbations from Image to Video and Multi-view models. 
+
+Paper: https://openreview.net/forum?id=SZynfVLGd5
+Code: https://github.com/Muzammal-Naseer/DCViT-AT
+Authors: Muzammal Naseer*, Ahmad Mahmood*, Salman Khan, Fahad Khan
+
+We show that we can re-configure a pre-trained Vision Transformer (ViT) by inducing dynamic cues to give the model the ability to recognize an action in a video (e.g., Kinetics) or a 3D object (e.g., ModelNet40 ) without losing the original pre-trained image solution (e.g., ImageNet). 
+
+Therefore, we do not need specialized architectures, e.g., divided space-time attention, 3D convolutions, or multi-view convolution networks for different data modalities. Image models are effective surrogates to optimize an adversarial attack to fool black-box models in a changing environment over time.
+
+We analyze 16 architectures across seven large-scale image and video datasets using three types of pre-trained models (supervised, self-supervised, and text-supervised). 
 
 # Summary. An optional shortened abstract.
 summary: <span style="font-size:120%;color:#117A65">**ICLR 2023**</span> <br> Learning temporal prompts within image models (ViTs) to fool video models.
