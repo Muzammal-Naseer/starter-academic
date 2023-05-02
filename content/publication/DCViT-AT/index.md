@@ -36,7 +36,7 @@ abstract: Deep neural networks are vulnerable to adversarial attacks. We can dev
 
 Paper: https://openreview.net/forum?id=SZynfVLGd5
 Code: https://github.com/Muzammal-Naseer/DCViT-AT
-Authors: Muzammal Naseer*, Ahmad Mahmood*, Salman Khan, Fahad Khan
+Authors: Muzammal Naseer, Ahmad Mahmood, Salman Khan, Fahad Khan
 
 We show that we can re-configure a pre-trained Vision Transformer (ViT) by inducing dynamic cues to give the model the ability to recognize an action in a video (e.g., Kinetics) or a 3D object (e.g., ModelNet40 ) without losing the original pre-trained image solution (e.g., ImageNet). 
 
