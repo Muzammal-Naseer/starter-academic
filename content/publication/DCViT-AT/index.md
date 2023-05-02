@@ -32,7 +32,7 @@ publication_types: ["1"]
 publication: In * International Conference on Learning Representations, ICLR 2023*
 publication_short: In *ICLR*
 
-abstract:Deep neural networks are vulnerable to adversarial attacks. We can develop more reliable AI models by analyzing blind spots across different architectures, datasets, and tasks using transferable adversarial attacks. This year ICLR'23, we will present a method to study adversarial blind spots of video models by transferring adversarial perturbations from Image to Video and Multi-view models. We show that we can re-configure a pre-trained Vision Transformer (ViT) by inducing dynamic cues to give the model the ability to recognize an action in a video (e.g., Kinetics) or a 3D object (e.g., ModelNet40 ) without losing the original pre-trained image solution (e.g., ImageNet). 
+abstract: Deep neural networks are vulnerable to adversarial attacks. We can develop more reliable AI models by analyzing blind spots across different architectures, datasets, and tasks using transferable adversarial attacks. This year ICLR'23, we will present a method to study adversarial blind spots of video models by transferring adversarial perturbations from Image to Video and Multi-view models. We show that we can re-configure a pre-trained Vision Transformer (ViT) by inducing dynamic cues to give the model the ability to recognize an action in a video (e.g., Kinetics) or a 3D object (e.g., ModelNet40 ) without losing the original pre-trained image solution (e.g., ImageNet). 
 
 # Summary. An optional shortened abstract.
 summary: <span style="font-size:120%;color:#117A65">**ICLR 2023**</span> <br> Learning temporal prompts within image models (ViTs) to fool video models.
