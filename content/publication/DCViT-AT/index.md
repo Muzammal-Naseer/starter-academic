@@ -32,8 +32,7 @@ publication_types: ["1"]
 publication: In * International Conference on Learning Representations, ICLR 2023*
 publication_short: In *ICLR*
 
-abstract: 
-Deep neural networks are vulnerable to adversarial attacks. We can develop more reliable AI models by analyzing blind spots across different architectures, datasets, and tasks using transferable adversarial attacks. This year @ICLR'23, we will present a method to study adversarial blind spots of video models by transferring adversarial perturbations from Image to Video and Multi-view models. 
+abstract: Deep neural networks are vulnerable to adversarial attacks. We can develop more reliable AI models by analyzing blind spots across different architectures, datasets, and tasks using transferable adversarial attacks. This year @ICLR'23, we will present a method to study adversarial blind spots of video models by transferring adversarial perturbations from Image to Video and Multi-view models. 
 
 Paper: https://openreview.net/forum?id=SZynfVLGd5
 Code: https://github.com/Muzammal-Naseer/DCViT-AT
