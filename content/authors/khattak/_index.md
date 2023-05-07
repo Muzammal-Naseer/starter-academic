@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS Student, MBZUAI. His two papers are under review at ICCV’23
+role: MS Student, MBZUAI. His two papers are under review at ICCV’23.
 
 # Organizations/Affiliations
 organizations:
