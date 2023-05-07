@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hanan is MS/Ph.D. student at MBZUAI.
+bio: Hanan is a MS student at MBZUAI.
 
 
 # Social/Academic Networking
