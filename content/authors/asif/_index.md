@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student, MBZUAI.  His one paper is under review at the top medical conference MICCAI’23 and one at BMVC’23.
+role: PhD student, MBZUAI.  His one paper is under review at MICCAI’23 and one at BMVC’23.
 
 # Organizations/Affiliations
 organizations:
