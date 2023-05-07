@@ -53,5 +53,5 @@ She is working on self-supervised representation learning for volumetric medical
 
 - To be announced.
 
-### Go To [Fahad Shamshad's Website](https://github.com/ShahinaKK)
+### Go To [Shahina Kunhimon's Website](https://github.com/ShahinaKK)
 
