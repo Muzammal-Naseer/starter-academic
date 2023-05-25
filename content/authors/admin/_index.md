@@ -61,14 +61,14 @@ I received my Ph.D. degree from Australian National University, Australia in 202
 - **Three CVPR 2023** papers accepted.
 - **One ICLR 2023** paper accepted.
 - **One TPAMI 2022** paper accepted.
-- **One CVPR 2022** paper accepted (<span style="color:#D35400">**Oral**</span>).
-- **One ICLR 2022** paper accepted (<span style="color:#D35400">**Spotlight**</span>).
-- **One NeurIPS 2021** paper accepted (<span style="color:#D35400">**Spotlight**</span>).
+- **One CVPR 2022** paper accepted (<span style="color:#D35400">**Oral**</span>, <span style="color:#3380FF">**Top 5.0%**</span>).
+- **One ICLR 2022** paper accepted (<span style="color:#D35400">**Spotlight**</span>, <span style="color:#3380FF">**Top 5.0%**</span>).
+- **One NeurIPS 2021** paper accepted (<span style="color:#D35400">**Spotlight**</span>, <span style="color:#3380FF">**Top 3.0%**</span>).
 - **Two ICCV 2021** papers accepted.
-- **One CVPR 2020** paper accepted (<span style="color:#D35400">**Oral**</span>).
+- **One CVPR 2020** paper accepted (<span style="color:#D35400">**Oral**</span>, <span style="color:#3380FF">**Top 5.7%**</span>).
 - **One NeurIPS 2019** paper accepted.
 
 **🔥 Notable**
 - **One MICCAI 2023** paper accepted (<span style="color:#D35400">**Early Accept**</span>, <span style="color:#3380FF">**Top 14.0%**</span>)
-- **One BMVC 2022** paper accepted (<span style="color:#D35400">**Oral**</span>).
-- **One ACCV 2022** paper accepted (<span style="color:#D35400">**Oral**</span>).
+- **One BMVC 2022** paper accepted (<span style="color:#D35400">**Oral**</span>, <span style="color:#3380FF">**Top 9.5%**</span>).
+- **One ACCV 2022** paper accepted (<span style="color:#D35400">**Oral**</span>, <span style="color:#3380FF">**Top 14.6%**</span>).
