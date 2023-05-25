@@ -69,6 +69,6 @@ I received my Ph.D. degree from Australian National University, Australia in 202
 - **One NeurIPS 2019** paper accepted.
 
 **🔥 Notable**
-- **One MICCAI 2023** paper accepted (<span style="color:#D35400">**Early Accept**</span>, <span style="font-size:120%;color:#3380FF">**Top 14.0%**</span>)
+- **One MICCAI 2023** paper accepted (<span style="color:#D35400">**Early Accept**</span>, <span style="color:#3380FF">**Top 14.0%**</span>)
 - **One BMVC 2022** paper accepted (<span style="color:#D35400">**Oral**</span>).
 - **One ACCV 2022** paper accepted (<span style="color:#D35400">**Oral**</span>).
