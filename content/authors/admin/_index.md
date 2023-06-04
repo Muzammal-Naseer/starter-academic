@@ -51,7 +51,7 @@ email: ""
 highlight_name: false
 ---
 
-I received my Ph.D. degree from Australian National University, Australia in 2020. My thesis was about "Novel Concepts and Designs for Adversarial Attacks and Defenses“. I am a researcher scientist at MBZUAI, UAE.
+I received my Ph.D. degree from Australian National University, Australia in 2020. My thesis was about "Novel Concepts and Designs for Adversarial Attacks and Defenses“. I am a research scientist at MBZUAI, UAE.
 
 My research interests are robust perception to understand and explain AI behavior, temporal perception, self-learning, AI safety, and reliability. 
 
