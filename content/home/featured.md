@@ -35,6 +35,6 @@ design:
   view: 2
 ---
 
-{{% callout note %}}
-For the full list of publications, click [HERE](./awards.md/).
-{{% /callout %}}
+# {{% callout note %}}
+# For the full list of publications, click [HERE](./publications/).
+# {{% /callout %}}
