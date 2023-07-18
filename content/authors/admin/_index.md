@@ -53,7 +53,7 @@ highlight_name: false
 
 I received my Ph.D. degree from Australian National University, Australia in 2020. My thesis was “Novel Concepts and Designs for Adversarial Attacks and Defenses”. I am a research scientist at MBZUAI, UAE.
 
-My research interests are robust visual perception by understanding and explaining AI behavior through adversarial machine learning, temporal perception, representation learning (self-supervision, self-distillation, self-critique), and configuring the role of language models (LLMs) in building visual AI systems.
+My research interests are robust visual perception by understanding and explaining AI behavior through adversarial machine learning, temporal perception, representation learning (self-supervision, self-distillation, self-critique), and configuring the role of large language models (LLMs) in building visual AI systems.
 
 **⚡ Top-Venue**
 - **Three ICCV 2023** papers accepted.
