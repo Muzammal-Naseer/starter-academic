@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: <span style="color:#D35400">**[Graduated]**</span>. MS Student, MBZUAI. He published <span style="color:#117A65">**2xICCV**</span> papers with us. He went on to join <span style="color:#D35400">**Max Planck Institute for Informatik**</span> under the supervision of <span style="color:#117A65">**Prof. Bernt Schiele**</span>.
+role: <span style="color:##FA0000">**[Graduated]**</span> MS Student@MBZUAI. He published <span style="color:#117A65">**2xICCV**</span> papers with us. He went on to join <span style="color:#D35400">**Max Planck Institute for Informatik**</span> under the supervision of <span style="color:#D35400">**Prof. Bernt Schiele**</span>.
 
 # Organizations/Affiliations
 organizations:
