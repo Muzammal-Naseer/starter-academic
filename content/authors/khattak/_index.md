@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: <span style="color:##FA0000">**[Graduated]**</span> MS Student@MBZUAI. He published <span style="color:#117A65">**2xICCV**</span> papers with us. He went on to join <span style="color:#D35400">**Max Planck Institute for Informatik**</span> as a Ph.D. student under the supervision of <span style="color:#D35400">**Prof. Bernt Schiele**</span>.
+role: <span style="color:#FA0000">**[Graduated]**</span> MS student@MBZUAI. He published <span style="color:#117A65">**2xICCV**</span> papers with us. He went on to join <span style="color:#D35400">**Max Planck Institute for Informatik**</span> as a Ph.D. student under the supervision of <span style="color:#D35400">**Prof. Bernt Schiele**</span>.
 
 # Organizations/Affiliations
 organizations:
@@ -50,10 +50,11 @@ user_groups:
 - Master Students
 ---
 
-He is working on multi-modal prompt learning to adapt large-scale vision-language models.
+He worked on multi-modal prompt learning to adapt large-scale vision-language models.
 
 **Research Outputs**
 
-- To be announced
+- [Self-regulating Prompts: Foundational Model Adaptation without Forgetting](https://arxiv.org/abs/2307.06948) [ICCV, 2023]
+- [Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition](https://arxiv.org/abs/2307.06947) [ICCV, 2023]
 
 ### Go To [Muhammad Uzair Khattak's Linkedin Profile](https://www.linkedin.com/in/muhammad-uzair-khattak-204ba1150/)
