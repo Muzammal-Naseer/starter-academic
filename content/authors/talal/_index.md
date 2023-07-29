@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 # role: PhD student, University of Bonn, <span style="color:#117A65">1xCVPR</span>
-role: Before joining, he was a  Master student at EPFL. He went on to join <span style="color:#D35400">**University of Bonn**</span> as a PhD student. He published <span style="color:#117A65">**1xCVPR**</span> paper with us.
+role: Before joining, he was a  Master student at EPFL. He went on to join <span style="color:#D35400">**University of Bonn**</span> as a PhD student with <span style="color:#D35400">**Prof. Jürgen Gall**</span> . He published <span style="color:#117A65">**1xCVPR, 2xICCV**</span> papers with us.
 
 # Organizations/Affiliations
 organizations:
@@ -56,6 +56,8 @@ Talal works in video understanding. He is developing adapter modules to align pr
 **Research Outputs**
 
 - [Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting.]() [CVPR, 2023]
+- [Self-regulating Prompts: Foundational Model Adaptation without Forgetting](https://arxiv.org/abs/2307.06948) [ICCV, 2023]
+- [Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition](https://arxiv.org/abs/2307.06947) [ICCV, 2023]
 
 ### Go To [Syed Talal Wasim's Website](https://talalwasim.github.io/)
 
