@@ -49,8 +49,7 @@ user_groups:
 - Researcher Associates
 ---
 
-Mohamed Afham completed a research project that improved **Few-shot learning** by introducing rich semantics through language descriptions about the object classes.  I supervised him during his stay at MBZUAI as a research associate.  
-
+Mohamed Afham completed a research project that improved **Few-shot learning** by introducing rich semantics through language descriptions about the object classes. 
 **Research Outputs**
 
 - [Rich Semantics Improve Few-shot Learning](https://arxiv.org/abs/2104.12709) [BMVC, 2021]
