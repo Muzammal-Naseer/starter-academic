@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student, MBZUAI.  His one paper is under review at MICCAI’23 and one at BMVC’23.
+role: PhD Student@MBZUAI.  He published <span style="color:#117A65">**1xMICCAI**</span> paper with us.
 
 # Organizations/Affiliations
 organizations:
@@ -50,11 +50,11 @@ user_groups:
 - PhD Students
 ---
 
-He is developing adversarial attacks within the frequency domain to understand and fix blind spots of deep neural networks for volumetric medical segmentation.
+ He develops adversarial attack algorithms to understand and fix blind spots in neural networks, medical segmentation models, and large vision language models (VLMs).
 
 **Research Outputs**
 
-- To be announced.
+- [Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation](https://arxiv.org/abs/2307.07269) [MICCAI, 2023]
 
 ### Go To [Asif Hanif's Linkedin Profile](https://www.linkedin.com/in/asif-hanif-/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ae)
 
