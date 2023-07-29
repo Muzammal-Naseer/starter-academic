@@ -50,6 +50,7 @@ user_groups:
 ---
 
 Mohamed Afham completed a research project that improved **Few-shot learning** by introducing rich semantics through language descriptions about the object classes. 
+
 **Research Outputs**
 
 - [Rich Semantics Improve Few-shot Learning](https://arxiv.org/abs/2104.12709) [BMVC, 2021]
