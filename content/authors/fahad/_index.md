@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student, MBZUAI.  He published <span style="color:#117A65">**1xCVPR**</span> paper with us.
+role: PhD Student@MBZUAI.  He published <span style="color:#117A65">**1xCVPR**</span> paper with us.
 
 # Organizations/Affiliations
 organizations:
@@ -55,7 +55,7 @@ Fahad works in adversarial learning. He is exploring the connections between gen
 **Research Outputs**
 
 - [CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via
-Adversarial Latent Search]() [CVPR, 2023]
+Adversarial Latent Search](https://arxiv.org/abs/2306.10008) [CVPR, 2023]
 
 ### Go To [Fahad Shamshad's Website](https://fahadshamshad.github.io/)
 
