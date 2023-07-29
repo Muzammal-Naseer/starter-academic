@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student, MBZUAI.  Her one paper is under review at MICCAI’23.
+role: PhD Student@MBZUAI. 
 
 # Organizations/Affiliations
 organizations:
