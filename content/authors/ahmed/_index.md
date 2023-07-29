@@ -49,7 +49,7 @@ user_groups:
 - Researcher Associates
 ---
 
-Ahmad Mahmood completed a research project to understand and enhance adversarial transferability from image to video models.  I supervised him during his stay at MBZUAI as a research associate.  
+Ahmad Mahmood completed a research project to understand and enhance adversarial transferability from image to video models.  
 
 **Research Outputs**
 
