@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS Student, MBZUAI. He published <span style="color:#117A65">**1xCVPR**</span> paper with us.
+role: MS Student@MBZUAI. He published <span style="color:#117A65">**1xCVPR**</span> paper with us.
 
 # Organizations/Affiliations
 organizations:
