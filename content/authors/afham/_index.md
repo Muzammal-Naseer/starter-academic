@@ -53,7 +53,7 @@ Mohamed Afham completed a research project that improved **Few-shot learning** b
 
 **Research Outputs**
 
-- [Rich Semantics Improve Few-shot Learning](https://arxiv.org/abs/2104.12709) [BMVC, 2021]
+- [Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation](https://arxiv.org/abs/2307.07269) [MICCAI, 2023]
 
 ### Go To [Mohmed Afham's Linkedin Profile](https://www.linkedin.com/in/mohamedafham/)
 
