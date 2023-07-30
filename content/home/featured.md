@@ -36,5 +36,5 @@ design:
 ---
 
 {{% callout note %}}
-For the full list of publications, click [HERE](./publication/).
+A full list of publications is available [HERE](./publication/).
 {{% /callout %}}
