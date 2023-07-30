@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 # role: PhD student, University of Bonn, <span style="color:#117A65">1xCVPR</span>
-role: Before joining, he was a  Master student at EPFL. He went on to join <span style="color:#D35400">**University of Bonn**</span> as a PhD student with <span style="color:#D35400">**Prof. Jürgen Gall**</span> . He published <span style="color:#117A65">**1xCVPR, 2xICCV**</span> papers with us.
+role: Before joining, he was a  Master student at EPFL. He is going to join <span style="color:#D35400">**University of Bonn**</span> as a PhD student with <span style="color:#D35400">**Prof. Jürgen Gall**</span> . He published <span style="color:#117A65">**1xCVPR, 2xICCV**</span> papers with us.
 
 # Organizations/Affiliations
 organizations:
