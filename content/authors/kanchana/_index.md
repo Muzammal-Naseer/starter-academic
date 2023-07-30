@@ -58,5 +58,6 @@ Kanchana Ranasinghe designed a novel loss function **"Orthogonal Projection Loss
 - [Orthogonal Projection Loss](https://arxiv.org/abs/2103.14021) [ICCV, 2021]
 - [Intriguing Properties of Vision Transformers](https://arxiv.org/abs/2105.10497) [NeurIPS, 2021 (Spotlight)]
 - [On Improving Adversarial Transferability of Vision Transformers](https://arxiv.org/abs/2106.04169) [ICLR, 2022 (Spotlight)]
+- [Self-supervised Video Transformer](https://arxiv.org/abs/2112.01514) [CVPR, 2023 (Oral)]
 
 ### Go To [Kanchana Ranasinghe's Website](https://kahnchana.github.io/)
