@@ -51,7 +51,8 @@ She is working on self-supervised representation learning for volumetric medical
 
 **Research Outputs**
 
-- To be announced.
+- [Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations
+](https://arxiv.org/abs/2207.08803) [BMVC, 2022 (Oral)]
 
 ### Go To [Shahina Kunhimon's Website](https://github.com/ShahinaKK)
 
