@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student@MBZUAI. 
+role: PhD Student@MBZUAI. She published <span style="color:#117A65">**1xBMVC**</span> paper with us.
 
 # Organizations/Affiliations
 organizations:
