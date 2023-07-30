@@ -1,22 +1,22 @@
 ---
-title: "Self-supervised Video Transformer" 
+title: "Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting" 
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
- - Kanchana Ranasinghe
+ - Syed Talal Wasim
  - admin
  - Salman Khan
  - Fahad Shahbaz Khan
- - Michael Ryoo
+ - Mubarak Shah
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-03-01T00:00:00Z"
+date: "2022-07-02T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,13 +30,13 @@ date: "2022-03-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In * Conference on Computer Vision and Pattern Recognition, CVPR 2022*
+publication: In * Conference on Computer Vision and Pattern Recognition, CVPR 2023*
 publication_short: In *CVPR*
 
-abstract: In this paper, we propose self-supervised training for video transformers using unlabelled video data. From a given video, we create local and global spatiotemporal views with varying spatial sizes and frame rates. Our self-supervised objective seeks to match the features of these different views representing the same video, to be invariant to spatiotemporal variations in actions. To the best of our knowledge, the proposed approach is the first to alleviate the dependency on negative samples or dedicated memory banks in Self-supervised Video Transformer (SVT). Further, owing to the flexibility of Transformer models, SVT supports slow-fast video processing within a single architecture using dynamically adjusted positional encodings and supports long-term relationship modeling along spatiotemporal dimensions. Our approach performs well on four action recognition benchmarks (Kinetics-400, UCF-101, HMDB-51, and SSv2) and converges faster with small batch sizes. Code is available at [here](https://github.com/kahnchana/svt)
+abstract: Adopting contrastive image-text pretrained models like CLIP towards video classification has gained attention due to its cost-effectiveness and competitive performance. However, recent works in this area face a trade-off. Finetuning the pretrained model to achieve strong supervised performance results in low zero-shot generalization. Similarly, freezing the backbone to retain zero-shot capability causes significant drop in supervised accuracy. Because of this, recent works in literature typically train separate models for supervised and zero-shot action recognition. In this work, we propose a multimodal prompt learning scheme that works to balance the supervised and zero-shot performance under a single unified training. Our prompting approach on the vision side caters for three aspects: 1) Global video-level prompts to model the data distribution; 2) Local frame-level prompts to provide per-frame discriminative conditioning; and 3) a summary prompt to extract a condensed video representation. Additionally, we define a prompting scheme on the text side to augment the textual context. Through this prompting scheme, we can achieve state-of-the-art zero-shot performance on Kinetics-600, HMDB51 and UCF101 while remaining competitive in the supervised setting. By keeping the pretrained backbone frozen, we optimize a much lower number of parameters and retain the existing general representation which helps achieve the strong zero-shot performance. . Code is available at [here](https://github.com/TalalWasim/Vita-CLIP)
 
 # Summary. An optional shortened abstract.
-summary: <span style="font-size:120%;color:#117A65">**CVPR 2022**</span>, <span style="font-size:120%;color:#D35400">**Oral**</span>, <span style="font-size:120%;color:#3380FF">**Top 5.0%**</span> <br> Self-supervised spatiotemporal view matching for video understanding.
+summary: <span style="font-size:120%;color:#117A65">**CVPR 2023**</span>, <br> Adapting large-scale foundational vision language models, CLIP, for video recognition.
 
 tags: []
 
@@ -46,9 +46,9 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Code
-   url: https://github.com/kahnchana/svt
+   url: https://github.com/TalalWasim/Vita-CLIP
  - name: arXiv
-   url: https://arxiv.org/abs/2112.01514
+   url: https://arxiv.org/abs/2304.03307
 
 url_pdf: ''
 url_code: ''
