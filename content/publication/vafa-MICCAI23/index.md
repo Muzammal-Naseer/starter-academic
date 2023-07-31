@@ -36,7 +36,7 @@ publication_short: In *MICCAI*
 abstract: It is imperative to ensure the robustness of deep learning models in critical applications such as, healthcare. While recent advances in deep learning have improved the performance of volumetric medical image segmentation models, these models cannot be deployed for real-world applications immediately due to their vulnerability to adversarial attacks. We present a 3D frequency domain adversarial attack for volumetric medical image segmentation models and demonstrate its advantages over conventional input or voxel domain attacks. Using our proposed attack, we introduce a novel frequency domain adversarial training approach for optimizing a robust model against voxel and frequency domain attacks. Moreover, we propose frequency consistency loss to regulate our frequency domain adversarial training that achieves a better tradeoff between model's performance on clean and adversarial samples. Code is publicly available at https://github.com/asif-hanif/vafa.
 
 # Summary. An optional shortened abstract.
-summary: <span style="font-size:120%;color:#117A65">**BMVC 2022**</span> <br> Learning self-supervised inductive biases from small data for ViTs.
+summary: <span style="font-size:120%;color:#117A65">**MICCAI 2023**</span> <br> Frequency domain adversarial training for robust medical segmentation.
 
 
 tags: []
@@ -47,13 +47,9 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Code
-   url: https://github.com/hananshafi/vits-for-small-scale-datasets
+   url: https://github.com/asif-hanif/vafa
  - name: arXiv
-   url: https://arxiv.org/abs/2210.07240v1
- - name: Video Presentation
-   url: https://drive.google.com/file/d/1oA0C_AAeGzwQogvsJHyWPE8CGOCQYkFG/view
- - name: Poster
-   url: https://drive.google.com/file/d/1eywuOkHPbH3bJhC7_kwBvyfI29jxfAkv/view
+   url: https://arxiv.org/abs/2307.07269
 
 
 url_pdf: ''
