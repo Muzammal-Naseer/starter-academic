@@ -34,7 +34,7 @@ publication_short: In *ICCV*
 abstract: "Face anti-spoofing (FAS) or presentation attack detection is an essential component of face recognition systems deployed in security-critical applications. Existing FAS methods have poor generalizability to unseen spoof types, camera sensors, and environmental conditions. Recently, vision transformer (ViT) models have been shown to be effective for the FAS task due to their ability to capture longrange dependencies among image patches. However, adaptive modules or auxiliary loss functions are often required to adapt pre-trained ViT weights learned on large-scale datasets such as Imagenet. In this work, we first show that initializing ViTs with multi-modal (e.g., CLIP) pre-trained weights improves generalizability for the FAS task, which is in line with the zero-shot transfer capabilities of vision-language pretrained (VLP) models. We then propose a novel approach for robust cross-domain FAS by grounding visual representations with the help of natural language. Specifically, we show that aligning the image representation with an ensemble of class descriptions (based on natural language semantics) improves FAS generalizability in low-data regimes. Finally, we propose a multi-modal contrastive learning strategy to further boost the feature generalization and bridge the gap between source and target domains. Extensive experiments on three standard protocols demonstrate that our method significantly outperforms the state-of-the-art methods, achieving better zero-shot transfer performance than five-shot transfer of “adaptive ViTs”. Our code and pre-trained models are publicly available at [here]()"
 
 # Summary. An optional shortened abstract.
-summary: <span style="font-size:120%;color:#117A65">**ICCV 2023**</span> <br>  Spatio-temporal focal modulation for video recognition is an efficient network.
+summary: <span style="font-size:120%;color:#117A65">**ICCV 2023**</span> <br>  Face anti-spoofing by adapting foundational vision-language models like CLIP. 
 
 tags: []
 
@@ -44,11 +44,11 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Project Page
-   url: https://talalwasim.github.io/Video-FocalNets/
+   url: TBA
  - name: Code
-   url: https://github.com/TalalWasim/Video-FocalNets
+   url: TBA
  - name: arXiv
-   url: https://arxiv.org/abs/2307.06947
+   url: TBA
 
 url_pdf: ''
 url_code: ''
