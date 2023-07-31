@@ -1,5 +1,5 @@
 ---
-title: "How to Train Vision Transformer on Small-scale Datasets?" 
+title: "Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation" 
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
