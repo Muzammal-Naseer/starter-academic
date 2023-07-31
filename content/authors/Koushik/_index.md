@@ -52,11 +52,4 @@ user_groups:
 - Researcher Associates
 ---
 
-Koushik works in AI security 
-
-**Research Outputs**
-
-- [FLIP: Cross-domain Face Anti-spoofing with Language Guidance]() [ICCV, 2023]
-
-### Go To [Koushik Srivatsan's Website](https://www.linkedin.com/in/koushik-srivatsan/)
 
