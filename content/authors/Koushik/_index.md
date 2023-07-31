@@ -51,13 +51,12 @@ user_groups:
 - Researcher Associates
 ---
 
-Talal works in video understanding. He is developing adapter modules to align pre-trained foundational vision language models with videos without compromising their zero-shot performance. He is also working on efficient models for temporal modeling for videos.
+Koushik works in AI security to understand and prevent malicious usage of multi modal (vision language) discriminative and generative models. 
 
 **Research Outputs**
 
-- [Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting.](https://arxiv.org/abs/2304.03307) [CVPR, 2023]
-- [Self-regulating Prompts: Foundational Model Adaptation without Forgetting](https://arxiv.org/abs/2307.06948) [ICCV, 2023]
-- [Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition](https://arxiv.org/abs/2307.06947) [ICCV, 2023]
+- [FLIP: Cross-domain Face Anti-spoofing with Language Guidance]() [ICCV, 2023]
 
-### Go To [Syed Talal Wasim's Website](https://talalwasim.github.io/)
+### Go To [Koushik Srivatsan's Website](https://www.linkedin.com/in/koushik-srivatsan/)
+
 
