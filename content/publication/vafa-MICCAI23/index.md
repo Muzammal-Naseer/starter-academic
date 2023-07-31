@@ -1,20 +1,22 @@
 ---
-title: "How to Train Vision Transformer on Small-scale Datasets?" 
+title: "Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation" 
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
- - Hanan Gani
+ - Asif Hanif
  - admin
- - Mohammad Yaqub
+ - Salman Khan
+ - Mubarak Shah
+ - Fahad Shahbaz Khan
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-02-01T00:00:00Z"
+date: "2023-05-25T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
