@@ -12,7 +12,7 @@ superuser: false
 
 # Role/position
 # role: PhD student, University of Bonn, <span style="color:#117A65">1xCVPR</span>
-role: Before joining, he was a junior research scientist at BUDDI AI. He published <span style="color:#117A65">**1xICCV**</span> papers with us.
+role: Before joining,
 
 # Organizations/Affiliations
 organizations:
