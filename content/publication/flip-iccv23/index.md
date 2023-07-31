@@ -46,11 +46,11 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Project Page
-   url: 
+   url: https://github.com/
  - name: Code
-   url: 
+   url: https://github.com/
  - name: arXiv
-   url: 
+   url: https://github.com/
 
 url_pdf: ''
 url_code: ''
