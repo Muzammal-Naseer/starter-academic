@@ -55,7 +55,7 @@ Talal works in video understanding. He is developing adapter modules to align pr
 
 **Research Outputs**
 
-- [Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting.]() [CVPR, 2023]
+- [Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting.](https://arxiv.org/abs/2304.03307) [CVPR, 2023]
 - [Self-regulating Prompts: Foundational Model Adaptation without Forgetting](https://arxiv.org/abs/2307.06948) [ICCV, 2023]
 - [Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition](https://arxiv.org/abs/2307.06947) [ICCV, 2023]
 
