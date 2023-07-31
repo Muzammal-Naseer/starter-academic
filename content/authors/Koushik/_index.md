@@ -52,4 +52,10 @@ user_groups:
 - Researcher Associates
 ---
 
+Koushik works in AI security to understand and prevent malicious usage of multi modal (vision language) discriminative and generative models. 
 
+**Research Outputs**
+
+- [FLIP: Cross-domain Face Anti-spoofing with Language Guidance]() [ICCV, 2023]
+
+### Go To [Koushik Srivatsan's Website](https://www.linkedin.com/in/koushik-srivatsan/)
