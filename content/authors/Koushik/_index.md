@@ -52,7 +52,7 @@ user_groups:
 - Researcher Associates
 ---
 
-Koushik works in AI security to understand and prevent malicious usage of multi modal (vision language) discriminative and generative models. 
+Koushik works in AI security 
 
 **Research Outputs**
 
