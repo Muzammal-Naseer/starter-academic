@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Syed Talal Wasim
+title: Koushik Srivatsan
 
 # Username (this should match the folder name)
 authors:
-- Talal
+- Koushik
 
 # Is this the primary user of the site?
 superuser: false
