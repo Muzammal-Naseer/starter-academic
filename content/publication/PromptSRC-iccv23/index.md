@@ -10,7 +10,7 @@ authors:
  - Syed Talal Wasim
  - admin 
  - Salman Khan
- - Ming-Hsuan Yang
+ - Ming Hsuan Yang
  - Fahad Shahbaz Khan
 
 # Author notes (optional)
