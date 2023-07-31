@@ -7,11 +7,6 @@ title: "Self-regulating Prompts: Foundational Model Adaptation without Forgettin
 # and it will be replaced with their full name and linked to their profile.
 authors:
  - Muhammad Uzair Khattak
- - Syed Talal Wasim
- - admin 
- - Salman Khan
- - Ming-Hsuan Yang
- - Fahad Shahbaz Khan
 
 # Author notes (optional)
 # author_notes:
