@@ -47,7 +47,7 @@ user_groups:
 - Master Students
 ---
 
-Sheng works on vision problems within open-set constraints. He is developing algorithms to discover novel categories during training and testing.  
+Sheng works on vision problems within open-set constraints. He is developing algorithms to discover novel categories.  
 
 **Research Outputs**
 
