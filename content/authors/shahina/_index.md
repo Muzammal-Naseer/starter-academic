@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student@MBZUAI. She published <span style="color:#117A65">**1xBMVC**</span> paper with us.
+role: PhD Student@MBZUAI. Supervising with <span style="color:#D35400">**Prof. Fahad Shabaz Khan**</span>.
 
 # Organizations/Affiliations
 organizations:
@@ -51,8 +51,7 @@ She is working on self-supervised representation learning for volumetric medical
 
 **Research Outputs**
 
-- [Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations
-](https://arxiv.org/abs/2207.08803) [BMVC, 2022 (Oral)]
+- To be announced.
 
 ### Go To [Shahina Kunhimon's Website](https://github.com/ShahinaKK)
 
