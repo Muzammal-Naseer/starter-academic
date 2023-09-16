@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student@MBZUAI.  He published <span style="color:#117A65">**1xMICCAI**</span> paper with us.
+role: PhD Student@MBZUAI.  He published <span style="color:#117A65">**1xMICCAI**</span> paper with us. Supervising with <span style="color:#D35400">**Prof. Fahad Shabaz Khan**</span>.
 
 # Organizations/Affiliations
 organizations:
