@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student@MBZUAI.  He published <span style="color:#117A65">**1xCVPR**</span> paper with us.
+role: PhD Student@MBZUAI.  He published <span style="color:#117A65">**1xCVPR**</span> paper with us. Supervising with <span style="color:#D35400">**Dr. Karthik Nandakumar**</span>.
 
 # Organizations/Affiliations
 organizations:
