@@ -57,5 +57,6 @@ Hanan is working to understand how to combine and optimize neural networks for l
 **Research Outputs**
 
 - [How to Train Vision Transformer on Small-scale Datasets?](https://arxiv.org/abs/2210.07240v1) [BMVC, 2022]
+- [Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization]() [NeurIPS, 2023]
 
 ### Go To [Hanan Gani's Linkedin Profile](https://www.linkedin.com/in/hanan-gani-269a73134/?originalSubdomain=in)
