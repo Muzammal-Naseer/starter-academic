@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS Student@MBZUAI. He published <span style="color:#117A65">**1xBMVC**</span> paper with us.
+role: MS Student@MBZUAI. He published <span style="color:#117A65">**1xBMVC, 1xNeurIPS**</span> paper with us.
 
 # Organizations/Affiliations
 organizations:
@@ -50,7 +50,9 @@ user_groups:
 - Master Students
 ---
 
-Hanan is working to understand how to combine and optimize self-supervised and supervised objectives for the label-efficient learning. His work focuses on optimizing Neural Networks under data scarcity scenarios for the task of classification, segmentation, and detection.
+Hanan is working to understand how to combine and optimize neural networks for label-efficient learning. His work focuses on open-world settings, multi-modal learning, Diffusion models, and 3D segmentation.
+
+
 
 **Research Outputs**
 
