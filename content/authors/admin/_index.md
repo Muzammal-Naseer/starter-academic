@@ -57,6 +57,7 @@ My research interests are robust visual perception by understanding and explaini
 
 **⚡ Top-Venue**
 
+- **One AAAI 2024** paper accepted.
 - **One NeurIPS 2023** paper accepted.
 - **Three ICCV 2023** papers accepted.
 - **Three CVPR 2023** papers accepted.
