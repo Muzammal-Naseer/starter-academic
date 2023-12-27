@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: <span style="font-size:120%;color:#3380FF">**Graduated**</span> as MS Student@MBZUAI. He published <span style="color:#117A65">**1xCVPR**</span> paper with us.
+role: <span style="font-size:120%;color:#3380FF">**Graduated**</span> as MS Student@MBZUAI. He published <span style="color:#117A65">**1xCVPR, 1*AAAI**</span> papers with us.
 
 # Organizations/Affiliations
 organizations:
