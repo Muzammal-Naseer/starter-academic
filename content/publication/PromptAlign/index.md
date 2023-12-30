@@ -36,20 +36,20 @@ publication_types: ["1"]
 publication: In * Neural Information Processing Systems, NeurIPS 2023*
 publication_short: In *NeurIPS*
 
-abstract: The promising zero-shot generalization of vision-language models such as CLIP
+abstract: "The promising zero-shot generalization of vision-language models such as CLIP
 has led to their adoption using prompt learning for numerous downstream tasks.
-Previous works have shown test-time prompt tuning using entropy minimization
+Previous works have shown test time prompt tuning using entropy minimization
 to adapt text prompts for unseen domains. While effective, this overlooks the
 key cause for performance degradation to unseen domains – distribution shift. In
 this work, we explicitly handle this problem by aligning the out-of-distribution
 (OOD) test sample statistics to those of the source data using prompt tuning. We
-use a single test sample to adapt multi-modal prompts at test time by minimizing
+use a single test sample to adapt multi modal prompts at test time by minimizing
 the feature distribution shift to bridge the gap in the test domain. Evaluating
 against the domain generalization benchmark, our method improves zero-shot top1 accuracy beyond existing prompt-learning techniques, with a 3.08% improvement
 over the baseline MaPLe. In cross-dataset generalization with unseen categories
 across 10 datasets, our method improves consistently across all datasets compared
-to the existing state-of-the-art. Our source code and models are available at
-https://jameelhassan.github.io/promptalign/.
+to the existing state of the art. Our source code and models are available at
+https://jameelhassan.github.io/promptalign/."
 
 # Summary. An optional shortened abstract.
 summary: <span style="font-size:120%;color:#117A65">**NeurIPS 2023**</span> <br> Test-Time Alignment of Foundational Models for Zero-shot.
