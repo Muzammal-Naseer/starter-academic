@@ -53,6 +53,7 @@ Sheng works on vision problems within open-set constraints. He is developing alg
 
 - [PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery
 ](https://arxiv.org/abs/2212.05590) [CVPR, 2023]
+- [Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment](https://arxiv.org/abs/2308.12960) [AAAI, 2024(Oral)]
 
 ### Go To [Sheng Zhang's Linkedin Profile](https://www.linkedin.com/in/sheng-zhang-b3ba34207/)
 
