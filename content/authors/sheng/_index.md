@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: <span style="font-size:120%;color:#3380FF">**Graduated**</span> as MS Student@MBZUAI. He published <span style="color:#117A65">**1xCVPR, 1xAAAI**</span> papers with us.
+role: MS Student@MBZUAI with <span style="color:#D35400">**Dr. Salman Khan**</span>.
 
 # Organizations/Affiliations
 organizations:
@@ -46,8 +46,6 @@ highlight_name: false
 user_groups:
 - Master Students
 ---
-
-Sheng works on vision problems within open-set constraints. He is developing algorithms to discover novel categories.  
 
 **Research Outputs**
 
