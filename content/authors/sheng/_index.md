@@ -26,6 +26,9 @@ bio: Sheng works on vision problems within open-set constraints.
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=8n5OI1kAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sheng-zhang-b3ba34207/
