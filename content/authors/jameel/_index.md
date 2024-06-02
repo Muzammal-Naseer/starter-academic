@@ -10,8 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS Student@MBZUAI. He published <span style="color:#117A65">**1xNeurIPS**</span> paper with us.
-
+role: MS Student@MBZUAI with <span style="color:#D35400">**Dr. Salman Khan**</span>.
 # Organizations/Affiliations
 organizations:
 - name: Mohamed bin Zayed University of AI 
@@ -49,8 +48,6 @@ highlight_name: false
 user_groups:
 - Master Students
 ---
-
-Jameel is working to understand and enhance test time adaptation of vision language foundational models.
 
 **Research Outputs**
 
