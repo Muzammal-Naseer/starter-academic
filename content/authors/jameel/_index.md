@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jameel Hassan Abdul Samadh
+title: Jameel Hassan
 
 # Username (this should match the folder name)
 authors:
