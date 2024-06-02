@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 # role: BS Student, Lahore University of Management Sciences,  <span style="color:#117A65">1xICLR</span>
-role: RA@MBZUAI with with <span style="color:#D35400">**Dr. Salman Khan**</span>.
+# role: RA@MBZUAI with with <span style="color:#D35400">**Dr. Salman Khan**</span>.
   
 
 # Organizations/Affiliations
