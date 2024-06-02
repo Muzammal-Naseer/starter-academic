@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS Student@MBZUAI. He published <span style="color:#117A65">**1xBMVC, 1xNeurIPS, 1xICLR**</span> paper with us.
+role: MS Student@MBZUAI with <span style="color:#D35400">**Dr. Salman Khan**</span>.
 
 # Organizations/Affiliations
 organizations:
@@ -49,10 +49,6 @@ highlight_name: false
 user_groups:
 - Master Students
 ---
-
-Hanan is working to understand how to combine and optimize neural networks for label-efficient learning. His work focuses on open-world settings, multi-modal learning, Diffusion models, and 3D segmentation.
-
-
 
 **Research Outputs**
 
