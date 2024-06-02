@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Fullbright Scholar and PhD Student@University of Central Florida. Supervising with <span style="color:#D35400">**Prof. Mubarak Shah**</span>.
+# role: Fullbright Scholar and PhD Student@University of Central Florida. Supervising with <span style="color:#D35400">**Prof. Mubarak Shah**</span>.
 
 # Organizations/Affiliations
 organizations:
