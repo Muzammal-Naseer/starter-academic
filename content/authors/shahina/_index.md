@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student@MBZUAI. Supervising with <span style="color:#D35400">**Prof. Fahad Shabaz Khan**</span>.
+role: PhD Student@MBZUAI with <span style="color:#D35400">**Prof. Fahad Shabaz Khan**</span>.
 
 # Organizations/Affiliations
 organizations:
@@ -47,11 +47,10 @@ user_groups:
 - PhD Students
 ---
 
-She is working on self-supervised representation learning for volumetric medical segmentation.
-
 **Research Outputs**
 
-- To be announced.
+- [Learnable weight initialization for volumetric medical image segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0933365724001052) [Artificial Intelligence in Medicine, 2024]
+- [Language Guided Domain Generalized Medical Image Segmentation](https://arxiv.org/abs/2404.01272) [ISBI, 2024]
 
 ### Go To [Shahina Kunhimon's Website](https://github.com/ShahinaKK)
 
