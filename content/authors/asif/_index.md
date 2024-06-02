@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student@MBZUAI.  He published <span style="color:#117A65">**1xMICCAI**</span> paper with us. Supervising with <span style="color:#D35400">**Prof. Fahad Shabaz Khan**</span>.
+role: PhD Student@MBZUAI with <span style="color:#D35400">**Prof. Fahad Shabaz Khan**</span>.
 
 # Organizations/Affiliations
 organizations:
@@ -49,8 +49,6 @@ highlight_name: false
 user_groups:
 - PhD Students
 ---
-
- He develops adversarial attack algorithms to understand and fix blind spots in neural networks, medical segmentation models, and large vision language models (VLMs).
 
 **Research Outputs**
 
