@@ -51,6 +51,6 @@ user_groups:
 
 **Research Outputs**
 
-- [Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization]() [NeurIPS, 2023]
+- [Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization](https://arxiv.org/abs/2311.01459) [NeurIPS, 2023]
 
 ### Go To [Jameel's Linkedin Profile](https://www.linkedin.com/in/jameelhassan/)
