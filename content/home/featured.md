@@ -34,3 +34,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+{{% callout note %}}
+For the full list of publications, click [HERE](https://scholar.google.com/citations?user=tM9xKA8AAAAJ&hl=en&oi=ao).
+{{% /callout %}}
