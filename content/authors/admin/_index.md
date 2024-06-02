@@ -76,5 +76,3 @@ My research interests are robust visual perception by understanding and explaini
 - **One MICCAI 2023** paper accepted (<span style="color:#D35400">**Early Accept**</span>, <span style="font-size:60%;color:#3380FF">**Top 14.0%**</span>)
 - **One BMVC 2022** paper accepted (<span style="color:#D35400">**Oral**</span>, <span style="font-size:60%;color:#3380FF">**Top 9.5%**</span>).
 - **One ACCV 2022** paper accepted (<span style="color:#D35400">**Oral**</span>, <span style="font-size:60%;color:#3380FF">**Top 14.6%**</span>).
-
-A full list of publications is available [here](https://scholar.google.com/citations?user=tM9xKA8AAAAJ&hl=en&oi=ao)
