@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student@MBZUAI with <span style="color:#D35400">**Prof. Fahad Shabaz Khan**</span>.
+# role: PhD Student@MBZUAI with <span style="color:#D35400">**Prof. Fahad Shabaz Khan**</span>.
 
 # Organizations/Affiliations
 organizations:
