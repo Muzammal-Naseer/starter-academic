@@ -10,7 +10,8 @@ authors:
 superuser: false
 
 # Role/position
-role: MS Student@MBZUAI with <span style="color:#D35400">**Dr. Salman Khan**</span>.
+role: <span style="color:#3380FF">**Graduated**</span>
+ as MS Student@MBZUAI with <span style="color:#D35400">**Dr. Salman Khan**</span>.
 
 # Organizations/Affiliations
 organizations:
