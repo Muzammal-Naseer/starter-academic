@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student@MBZUAI. He published <span style="color:#117A65">**1xBMVC**</span> paper with us. Supervising with <span style="color:#D35400">**Dr. Salman Khan**</span>.
+role: PhD Student@MBZUAI with <span style="color:#D35400">**Dr. Salman Khan**</span>.
 
 # Organizations/Affiliations
 organizations:
@@ -49,8 +49,6 @@ highlight_name: false
 user_groups:
 - PhD Students
 ---
-
-Hashmat is working to enhance cross-task, cross-data and cross-domain transferability of adversarial attacks which can lead to better insights about the blind spots of deep learning models.
 
 **Research Outputs**
 
