@@ -11,8 +11,7 @@ superuser: false
 
 # Role/position
 # role: BS Student, University of Moratuwa,  <span style="color:#117A65">1xBMVC</span>
-role: Before joining, he was a  BS student at University of Moratuwa. He went on to join <span style="color:#D35400">**Meta AI Residency Program**</span>. He published <span style="color:#117A65">**1xBMVC**</span> paper with us.
-
+role: RA@MBZUAI with with <span style="color:#D35400">**Dr. Salman Khan**</span>.
 
 # Organizations/Affiliations
 organizations:
@@ -28,6 +27,9 @@ bio: Mohamed Afham interests include few-shot learning and object recognition.
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=xGuhVGAAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mohamedafham/
@@ -48,8 +50,6 @@ highlight_name: false
 user_groups:
 - Researcher Associates
 ---
-
-Mohamed Afham completed a research project that improved **Few-shot learning** by introducing rich semantics through language descriptions about the object classes. 
 
 **Research Outputs**
 
