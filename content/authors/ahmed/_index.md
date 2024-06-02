@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 # role: BS Student, Lahore University of Management Sciences,  <span style="color:#117A65">1xICLR</span>
-role: Before joining, he was a BS student at the Lahore University of Management Sciences. He is going to join <span style="color:#D35400">**ETH Zurich**</span> as a Master's Student. He published <span style="color:#117A65">**1xICLR**</span> paper with us.
+role: RA@MBZUAI with with <span style="color:#D35400">**Dr. Salman Khan**</span>.
   
 
 # Organizations/Affiliations
@@ -28,6 +28,9 @@ bio: Ahmad Mahmood's interests include adversarial and federated learning.
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=95W4QckAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ahmad-mahmood-81339a212/
@@ -48,8 +51,6 @@ highlight_name: false
 user_groups:
 - Researcher Associates
 ---
-
-Ahmad Mahmood completed a research project to understand and enhance adversarial transferability from image to video models.  
 
 **Research Outputs**
 
