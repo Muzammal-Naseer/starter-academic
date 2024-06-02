@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 # role: BS Student, University of Moratuwa,  <span style="color:#117A65">1xBMVC</span>
-role: RA@MBZUAI with with <span style="color:#D35400">**Dr. Salman Khan**</span>.
+# role: RA@MBZUAI with with <span style="color:#D35400">**Dr. Salman Khan**</span>.
 
 # Organizations/Affiliations
 organizations:
