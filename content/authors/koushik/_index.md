@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 # role: PhD student, University of Bonn, <span style="color:#117A65">1xCVPR</span>
-role: Before joining, he was a junior research scientist at BUDDI AI. He published <span style="color:#117A65">**1xICCV**</span> papers with us.
+role: RA@MBZUAI with with <span style="color:#D35400">**Dr. Karthik Nandakumar**</span>.
 
 # Organizations/Affiliations
 organizations:
@@ -51,11 +51,9 @@ user_groups:
 - Researcher Associates
 ---
 
-Koushik works in AI security to understand and prevent malicious usage of multi-modal (vision-language) discriminative and generative models. 
-
 **Research Outputs**
 
-- [FLIP: Cross-domain Face Anti-spoofing with Language Guidance]() [ICCV, 2023]
+- [FLIP: Cross-domain Face Anti-spoofing with Language Guidance](https://arxiv.org/abs/2309.16649) [ICCV, 2023]
 
 ### Go To [Koushik Srivatsan's Website](https://www.linkedin.com/in/koushik-srivatsan/)
 
