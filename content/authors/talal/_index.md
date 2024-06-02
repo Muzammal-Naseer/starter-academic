@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 # role: PhD student, University of Bonn, <span style="color:#117A65">1xCVPR</span>
-role: RA@MBZUAI with with <span style="color:#D35400">**Dr. Salman Khan**</span>.
+# role: RA@MBZUAI with with <span style="color:#D35400">**Dr. Salman Khan**</span>.
 
 # Organizations/Affiliations
 organizations:
