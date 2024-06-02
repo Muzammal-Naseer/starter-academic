@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: <span style="font-size:120%;color:#3380FF">**Graduated**</span> as MS Student@MBZUAI. He published <span style="color:#117A65">**2xICCV**</span> papers with us. He went on to join <span style="color:#D35400">**Max Planck Institute for Informatik**</span> as a Ph.D. student with <span style="color:#D35400">**Prof. Bernt Schiele**</span>.
+role: MS Student@MBZUAI with <span style="color:#D35400">**Dr. Salman Khan**</span>.
 
 # Organizations/Affiliations
 organizations:
@@ -49,8 +49,6 @@ highlight_name: false
 user_groups:
 - Master Students
 ---
-
-He worked on multi-modal prompt learning to adapt large-scale vision-language models.
 
 **Research Outputs**
 
