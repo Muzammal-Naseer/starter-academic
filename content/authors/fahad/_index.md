@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student@MBZUAI.  He published <span style="color:#117A65">**1xCVPR**</span> paper with us. Supervising with <span style="color:#D35400">**Dr. Karthik Nandakumar**</span>.
+role: PhD Student@MBZUAI with <span style="color:#D35400">**Dr. Karthik Nandakumar**</span>.
 
 # Organizations/Affiliations
 organizations:
@@ -49,8 +49,6 @@ highlight_name: false
 user_groups:
 - PhD Students
 ---
-
-Fahad works in adversarial learning. He is exploring the connections between generative models, transferable adversarial attacks, and vision language models for adversarial manipulation of visual inputs (image/video) through human language instructions.
 
 **Research Outputs**
 
