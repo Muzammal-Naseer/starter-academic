@@ -10,7 +10,7 @@ active: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Co-supervised Students
+title: Co-supervised MBZUAI Students
 subtitle:
 
 content:
