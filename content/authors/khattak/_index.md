@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Muhammad Uzair Khattak
+title: Muhammad Uzair
 
 # Username (this should match the folder name)
 authors:
