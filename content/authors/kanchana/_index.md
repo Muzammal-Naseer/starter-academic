@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 # role: PhD Student, Stony Brook University, <span style="color:#117A65">1xICCV, 1xNeurIPS, 1xICLR</span>
-role: Before joining, he was a Machine Learning Engineer at VeracityAI. He went on to join <span style="color:#D35400">**Stony Brook University**</span> as a PhD student with <span style="color:#D35400">**Dr. Michael S. Ryoo**</span>. He published <span style="color:#117A65">**1xICCV, 1xNeurIPS, 1xICLR, 1xCVPR**</span> papers with us.
+role:  RA@MBZUAI with with <span style="color:#D35400">**Dr. Salman Khan**</span>.
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Video Analysis, Interpretable Representations and Self-Supervised Learning.
+bio: Kanchana works in multi-modal learning.
 
 
 # Social/Academic Networking
@@ -50,8 +50,6 @@ highlight_name: false
 user_groups:
 - Researcher Associates
 ---
-
-Kanchana Ranasinghe designed a novel loss function **"Orthogonal Projection Loss"** that enforces orthogonality in the feature space and enhances the performance & robustness of neural networks. He also participated in other research projects related to Vision Transformers.
 
 **Research Outputs**
 
