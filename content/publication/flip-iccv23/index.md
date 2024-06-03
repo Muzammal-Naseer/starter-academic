@@ -39,7 +39,7 @@ summary: <span style="font-size:120%;color:#117A65">**ICCV 2023**</span> <br>  F
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
