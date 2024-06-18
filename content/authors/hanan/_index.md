@@ -55,5 +55,6 @@ user_groups:
 - [How to Train Vision Transformer on Small-scale Datasets?](https://arxiv.org/abs/2210.07240v1) [BMVC, 2022]
 - [Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization](https://arxiv.org/abs/2308.12960) [NeurIPS, 2023]
 - [LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts](https://arxiv.org/abs/2310.10640) [ICLR, 2024]
+- [MedContext: Learning Contextual Cues for Efficient Volumetric Medical Segmentation](https://arxiv.org/abs/2402.17725) [MICCAI, 2024]
 
 ### Go To [Hanan Gani's Linkedin Profile](https://www.linkedin.com/in/hanan-gani-269a73134/?originalSubdomain=in)
