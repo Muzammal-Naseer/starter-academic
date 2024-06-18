@@ -10,8 +10,8 @@ authors:
 superuser: false
 
 # Role/position
-# role: PhD student, University of Bonn, <span style="color:#117A65">1xCVPR</span>
-# role: RA@MBZUAI with with <span style="color:#D35400">**Dr. Karthik Nandakumar**</span>.
+# role: 
+# role: 
 
 # Organizations/Affiliations
 organizations:
