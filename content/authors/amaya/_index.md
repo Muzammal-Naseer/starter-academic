@@ -10,8 +10,8 @@ authors:
 superuser: false
 
 # Role/position
-# role: PhD student, University of Bonn, <span style="color:#117A65">1xCVPR</span>
-# role: RA@MBZUAI with with <span style="color:#D35400">**Dr. Karthik Nandakumar**</span>.
+# role:
+# role:
 
 # Organizations/Affiliations
 organizations:
@@ -53,7 +53,7 @@ user_groups:
 
 **Research Outputs**
 
-- [Cross-Modal Self-Training: Aligning Images and Pointclouds to learn Classification without Labels](https://arxiv.org/abs/2404.10146) [CVPR-workshop-3DMV, 2024]
+- [Cross-Modal Self-Training: Aligning Images and Pointclouds to learn Classification without Labels](https://arxiv.org/abs/2404.10146) [3DMV (CVPR workshop), 2024]
 
 ### Go To [Amaya Dharmasiri's Linkedin Profile](https://www.linkedin.com/in/amaya-dharmasiri-05558a153/)
 
