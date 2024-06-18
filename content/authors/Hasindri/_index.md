@@ -29,7 +29,7 @@ bio: Hasindri works in medical AI.
 social:
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?user=HJY3MFMAAAAJ&hl=en&oi=ao
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/hasindri/?originalSubdomain=lk
