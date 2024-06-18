@@ -55,6 +55,6 @@ user_groups:
 
 - [Hierarchical Text-to-Vision Self Supervised Alignment for Improved Histopathology Representation Learning](https://arxiv.org/abs/2403.14616) [MICCAI, 2024]
 
-### Go To [Hasindri's Website](https://www.linkedin.com/in/hasindri/?originalSubdomain=lk)
+### Go To [Hasindri's Linkedin Profile](https://www.linkedin.com/in/hasindri/?originalSubdomain=lk)
 
 
