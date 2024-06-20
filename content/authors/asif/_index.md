@@ -53,6 +53,7 @@ user_groups:
 **Research Outputs**
 
 - [Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation](https://arxiv.org/abs/2307.07269) [MICCAI, 2023]
+- [BAPLe: Backdoor Attacks on Medical Foundational Models using Prompt Learning]() [MICCAI, 2024]
 
 ### Go To [Asif Hanif's Linkedin Profile](https://www.linkedin.com/in/asif-hanif-/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ae)
 
