@@ -52,7 +52,8 @@ user_groups:
 
 **Research Outputs**
 
-- [Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations
-](https://arxiv.org/abs/2207.08803) [BMVC, 2022 (Oral)]
+- [Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations](https://arxiv.org/abs/2207.08803) [BMVC, 2022 (Oral)]
+- [On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models](https://arxiv.org/abs/2406.08486) [BMVC, 2024]
+
 
 ### Go To [Hashmat Malik's Linkedin Profile](https://www.linkedin.com/in/hashmat-shadab-malik-7a578b17b?originalSubdomain=ae)
