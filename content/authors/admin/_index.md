@@ -6,7 +6,7 @@ title: Muzammal Naseer
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Asst. Professor, KU
 
 # Organizations/Affiliations to show in About widget
 # organizations:
