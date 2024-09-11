@@ -7,7 +7,7 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 29
+weight: 30
 
 # title: Selected Publications
 title: Vision Language Models
