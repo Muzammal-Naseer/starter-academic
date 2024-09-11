@@ -42,10 +42,6 @@ tags: []
 # Display this page in the Featured widget?
 featured: false
 
-user_groups:
-- "Vision Language Models"
----
-
 # Custom links (uncomment lines below)
 links:
  - name: Code
