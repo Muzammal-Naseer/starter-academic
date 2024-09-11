@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-# title: Selected Publications
-title: Multimodal Large Language Model
+title: Selected Publications
+# title: Multimodal Large Language Model
 subtitle: ""
 
 content:
