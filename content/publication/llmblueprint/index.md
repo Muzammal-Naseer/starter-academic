@@ -41,6 +41,7 @@ tags: []
 
 # Display this page in the Featured widget?
 featured: true
+feature_vlm: false
 
 # Custom links (uncomment lines below)
 links:
