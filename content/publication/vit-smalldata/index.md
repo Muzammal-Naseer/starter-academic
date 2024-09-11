@@ -41,7 +41,7 @@ summary: <span style="font-size:120%;color:#117A65">**BMVC 2022**</span> <br> Le
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
