@@ -40,7 +40,11 @@ summary: <span style="font-size:120%;color:#117A65">**ICLR 2024**</span> <br> Le
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
+
+user_groups:
+- "Vision Language Models"
+---
 
 # Custom links (uncomment lines below)
 links:
