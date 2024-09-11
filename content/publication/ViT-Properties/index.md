@@ -42,7 +42,7 @@ summary: <span style="font-size:120%;color:#117A65">**NeurIPS 2021**</span>, <sp
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
