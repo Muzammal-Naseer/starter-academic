@@ -43,7 +43,7 @@ summary: <span style="font-size:120%;color:#117A65">**AAAI 2024**</span>, <span 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured_vlm: true
 
 # Custom links (uncomment lines below)
 links:
