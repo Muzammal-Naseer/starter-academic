@@ -13,10 +13,6 @@ title: Vision Language Model
 # title: Multimodal Large Language Model
 subtitle: ""
 
-content:
-  # Page type to display. E.g. post, talk, publication...
-  user_groups: ["Vision Language Model"]
-
 
 design:
   # Choose a view for the listings:
