@@ -53,7 +53,7 @@ highlight_name: false
 
 I received my Ph.D. degree from the Australian National University, Australia in 2020. My thesis was “Novel Concepts and Designs for Adversarial Attacks and Defenses.” I am an assistant professor in the computer science department of the College of Computing and Mathematical Sciences at Khalifa University.
 
-I am interested in building Robust Intelligent Systems. My research focuses on robust visual-spatial and temporal perception, understanding and explaining AI behavior through adversarial machine learning, representation learning through self-learning ( self-supervision, self-distillation, self-critique, self-reflection), and configuring the role of large language models (LLMs) in building robust AI systems across applications of <span style="color:#D35400">life sciences</span> and <span style="color:#D35400">secure AI</span>.
+I am interested in building Robust Intelligent Systems. My research focuses on robust visual-spatial and temporal perception, understanding and explaining AI behavior through adversarial machine learning, representation learning through self-learning ( self-supervision, self-distillation, self-critique, self-reflection), and configuring the role of large language models (LLMs) in building robust AI systems across applications of <span style="color:#D35400">life sciences</span> and <span style="color:#D35400">security</span>.
 
 **⚡ Top-Venue**
 
