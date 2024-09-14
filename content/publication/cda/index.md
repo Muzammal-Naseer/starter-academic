@@ -16,7 +16,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2019-11-01T00:00:00Z"
+date: "2020-06-01T00:00:09Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -36,12 +36,12 @@ publication_short: In *NeurIPS*
 abstract: Adversarial examples reveal the blind spots of deep neural networks (DNNs) and represent a major concern for security-critical applications. The transferability of adversarial examples makes real-world attacks possible in black-box settings, where the attacker is forbidden to access the internal parameters of the model. The underlying assumption in most adversary generation methods, whether learning an instance-specific or an instance-agnostic perturbation, is the direct or indirect reliance on the original domain-specific data distribution. In this work, for the first time, we demonstrate the existence of domain-invariant adversaries, thereby showing common adversarial space among different datasets and models. To this end, we propose a framework capable of launching highly transferable attacks that crafts adversarial patterns to mislead networks trained on wholly different domains. For instance, an adversarial function learned on Paintings, Cartoons or Medical images can successfully perturb ImageNet samples to fool the classifier, with success rates as high as 99\%(). The core of our proposed adversarial function is a generative network that is trained using a relativistic supervisory signal that enables domain-invariant perturbations. Our approach sets the new state-of-the-art for fooling rates, both under the white-box and black-box scenarios. Furthermore, despite being an instance-agnostic perturbation function, our attack outperforms the conventionally much stronger instance-specific attack methods. Code is available at [here](https://github.com/Muzammal-Naseer/Cross-domain-perturbations).
 
 # Summary. An optional shortened abstract.
-summary: <span style="font-size:120%;color:#117A65">**NeurIPS 2019**</span> <br> Cross-domain transferable adversarial attack.
+summary: <span style="font-size:120%;color:#ff5733 ">**Adversarial Machine Learning**</span>, <span style="font-size:120%;color:#117A65">**NeurIPS 2019**</span> <br> Cross-domain transferable adversarial attack.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: True
 
 # Custom links (uncomment lines below)
 links:
