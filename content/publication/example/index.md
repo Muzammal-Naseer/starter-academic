@@ -16,11 +16,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-06-01T00:00:00Z"
+date: "2020-06-01T00:00:10Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2020-06-01T00:00:10Z"
+# publishDate: "2020-06-01T00:00:00Z"
 
 
 # Publication type.
