@@ -37,12 +37,12 @@ publication_short: In *CVPR*
 abstract: Although existing semi-supervised learning models achieve remarkable success in learning with unannotated in-distribution data, they mostly fail to learn on unlabeled data sampled from novel semantic classes due to their closed-set assumption. In this work, we target a pragmatic but under-explored Generalized Novel Category Discovery (GNCD) setting. The GNCD setting aims to categorize unlabeled training data coming from known and novel classes by leveraging the information of partially labeled known classes. We propose a two-stage Contrastive Affinity Learning method with auxiliary visual Prompts, dubbed PromptCAL, to address this challenging problem. Our approach discovers reliable pairwise sample affinities to learn better semantic clustering of both known and novel classes for the class token and visual prompts. First, we propose a discriminative prompt regularization loss to reinforce semantic discriminativeness of prompt-adapted pre-trained vision transformer for refined affinity relationships.Besides, we propose contrastive affinity learning to calibrate semantic representations based on our iterative semi-supervised affinity graph generation method for semantically-enhanced supervision. Extensive experimental evaluation demonstrates that our PromptCAL method is more effective in discovering novel classes even with limited annotations and surpasses the current state of the art on generic and fine grained benchmarks (e.g., with nearly 11% gain on CUB-200, and 9% on ImageNet-100) on overall accuracy Code is available at [here](https://github.com/sheng-eatamath/PromptCAL)
 
 # Summary. An optional shortened abstract.
-summary: <span style="font-size:120%;color:#117A65">**CVPR 2023**</span> <br> Novel class discovery through prompting.
+summary: <span style="font-size:120%;color:#ff5733 ">**Self-Learning**</span>, <span style="font-size:120%;color:#117A65">**CVPR 2023**</span> <br> Novel class discovery through prompting.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: True
 
 # Custom links (uncomment lines below)
 links:
