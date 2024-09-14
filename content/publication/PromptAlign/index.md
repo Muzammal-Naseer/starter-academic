@@ -52,7 +52,7 @@ to the existing state of the art. Our source code and models are available at
 https://jameelhassan.github.io/promptalign/."
 
 # Summary. An optional shortened abstract.
-summary: <span style="font-size:120%;color:#117A65">**NeurIPS 2023**</span> <br> Test-Time Alignment of Foundational Models for Zero-shot.
+summary: <span style="font-size:120%;color:#ff5733 ">**Vision-Language Model**</span>, <span style="font-size:120%;color:#117A65">**NeurIPS 2023**</span> <br> Test-Time Alignment of Foundational Models for Zero-shot.
 tags: []
 
 # Display this page in the Featured widget?
