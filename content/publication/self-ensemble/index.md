@@ -16,7 +16,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-02-03T00:00:00Z"
+date: "2022-02-02T00:00:07Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -41,7 +41,7 @@ summary: <span style="font-size:120%;color:#ff5733 ">**Adversarial Machine Learn
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: True
 
 # Custom links (uncomment lines below)
 links:
