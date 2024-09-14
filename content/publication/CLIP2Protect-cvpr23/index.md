@@ -39,7 +39,7 @@ summary: <span style="font-size:120%;color:#ff5733 ">**Adversarial Machine Learn
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: True
 
 # Custom links (uncomment lines below)
 links:
