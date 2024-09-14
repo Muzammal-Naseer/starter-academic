@@ -37,7 +37,7 @@ abstract: Transferable adversarial attacks optimize adversaries from a pretraine
  
 
 # Summary. An optional shortened abstract.
-summary:<span style="font-size:120%;color:#ff5733 ">**Adversarial Machine Learning**</span>,  <span style="font-size:120%;color:#117A65">**BMVC 2022**</span>, <span style="font-size:120%;color:#D35400">**Oral**</span>, <span style="font-size:120%;color:#3380FF">**Top 9.5%**</span> <br> Self-supervised adversarial training for transferable attacks.
+summary: <span style="font-size:120%;color:#ff5733 ">**Adversarial Machine Learning**</span>, <span style="font-size:120%;color:#117A65">**BMVC 2022**</span>, <span style="font-size:120%;color:#D35400">**Oral**</span>, <span style="font-size:120%;color:#3380FF">**Top 9.5%**</span> <br> Self-supervised adversarial training for transferable attacks.
 
 tags: []
 
