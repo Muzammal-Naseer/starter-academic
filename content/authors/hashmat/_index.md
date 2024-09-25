@@ -54,6 +54,7 @@ user_groups:
 
 - [Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations](https://arxiv.org/abs/2207.08803) [BMVC, 2022 (Oral)]
 - [On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models](https://arxiv.org/abs/2406.08486) [BMVC, 2024]
+- [ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes](https://arxiv.org/abs/2403.04701) [ACCV, 2024 (Oral)]
 
 
 ### Go To [Hashmat Malik's Linkedin Profile](https://www.linkedin.com/in/hashmat-shadab-malik-7a578b17b?originalSubdomain=ae)
