@@ -59,7 +59,7 @@ I am interested in building Robust Intelligent Systems. My research focuses on r
 
 - **Four CVPR 2024** papers accepted.
 - **One ICLR 2024** paper accepted.
-- **One AAAI 2024** paper accepted (<span style="color:#D35400">**Oral**</span>).
+- **One AAAI 2024** paper accepted (<span style="color:#D35400">**Oral**</span>,  <span style="font-size:60%;color:#3380FF">**Top 9.0%**</span>).
 - **One NeurIPS 2023** paper accepted.
 - **Three ICCV 2023** papers accepted.
 - **Three CVPR 2023** papers accepted.
