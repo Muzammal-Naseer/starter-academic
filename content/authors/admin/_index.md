@@ -57,6 +57,7 @@ I am interested in building Robust Intelligent Systems. My research focuses on r
 
 **⚡ Top-Venue**
 
+- **One TPAMI 2025** paper accepted.
 - **Four CVPR 2024** papers accepted.
 - **One ICLR 2024** paper accepted.
 - **One AAAI 2024** paper accepted (<span style="color:#D35400">**Oral**</span>,  <span style="font-size:60%;color:#3380FF">**Top 9.0%**</span>).
