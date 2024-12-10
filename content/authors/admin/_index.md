@@ -57,7 +57,8 @@ I am interested in building Robust Intelligent Systems. My research focuses on r
 
 **⚡ Top-Venue**
 
-- **One TPAMI 2025** paper accepted.
+- **One AAAI 2025** paper accepted
+-  **One TPAMI 2025** paper accepted.
 - **Four CVPR 2024** papers accepted.
 - **One ICLR 2024** paper accepted.
 - **One AAAI 2024** paper accepted (<span style="color:#D35400">**Oral**</span>,  <span style="font-size:60%;color:#3380FF">**Top 9.0%**</span>).
@@ -74,7 +75,7 @@ I am interested in building Robust Intelligent Systems. My research focuses on r
 - **One NeurIPS 2019** paper accepted.
 
 **🔥 Notable**
-- **One ACCV 2024** paper accepted (<span style="color:#D35400">**Oral**</span>, <span style="font-size:60%;color:#3380FF">**Top 5.6%**</span>).
+- **One ACCV 2024** paper accepted (<span style="color:#D35400">**Oral**</span>, <span style="font-size:60%;color:#3380FF">**Top 5.6%**</span>, <span style="font-size:60%;color:#bb0a93">**Best Student Paper Honorable Mention Award**</span>, ).
 - **Four MICCAI 2024** papers accepted.
 - **One MICCAI 2023** paper accepted (<span style="color:#D35400">**Early Accept**</span>, <span style="font-size:60%;color:#3380FF">**Top 14.0%**</span>).
 - **One BMVC 2022** paper accepted (<span style="color:#D35400">**Oral**</span>, <span style="font-size:60%;color:#3380FF">**Top 9.5%**</span>).
