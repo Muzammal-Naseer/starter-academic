@@ -95,9 +95,7 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
     name = "categories"
     weight = 70.0
 
-# Install Wowchemy
-[module]
-  [[module.imports]]
-    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms"
-  [[module.imports]]
-    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
+module:
+  imports:
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
