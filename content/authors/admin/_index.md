@@ -55,6 +55,7 @@ I received my Ph.D. degree from the Australian National University, Australia in
 
 I am interested in building Robust Intelligent Systems. My research focuses on robust visual-spatial and temporal perception, understanding and explaining AI behavior through adversarial machine learning, representation learning through self-learning ( self-supervision, self-distillation, self-critique, self-reflection), and configuring the role of large language models (LLMs) in building robust AI systems across applications of <span style="color:#9f33ff">security</span> and <span style="color:#9f33ff">life sciences</span>.
 
+checking
 **⚡ Top-Venue**
 
 - **One AAAI 2025** paper accepted
