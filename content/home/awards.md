@@ -23,7 +23,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- Conference on Neural Information Processing Systems (NeurIPS)
 - certificate_url: ""
   date_end: ""
   date_start: "2019-12-01"
