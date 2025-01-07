@@ -10,7 +10,7 @@ active: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Co-supervised MBZUAI Students
+title: 
 subtitle:
 
 content:
@@ -25,6 +25,7 @@ content:
    - Administration
    - Visitors
    - Alumni
+   - News
 design:
   show_interests: false
   show_social: true
