@@ -5,3 +5,9 @@
 # If you are not using those tools, this file may be deleted.
 #
 # The actual configuration files are stored in the `config/_default/` folder.
+[outputFormats.redirects]
+mediaType = "text/plain"
+baseName = "_redirects"
+
+[outputs]
+home = ["HTML", "redirects"]
