@@ -10,4 +10,4 @@ mediaType = "text/plain"
 baseName = "_redirects"
 
 [outputs]
-home = ["HTML", "redirects"]
+home = ["HTML"]
