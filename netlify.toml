@@ -8,7 +8,7 @@
 #  HUGO_VERSION = "0.80.0" # Latest stable version
 #  HUGO_VERSION = "0.111.3" # Latest stable version
 
-  HUGO_VERSION = "0.123.3" # Latest stable version
+    HUGO_VERSION = "0.90.0"
 
   HUGO_ENABLEGITINFO = "true"
 
