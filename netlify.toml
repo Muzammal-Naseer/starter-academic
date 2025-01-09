@@ -6,7 +6,9 @@
 
 [build.environment]
 #  HUGO_VERSION = "0.80.0" # Latest stable version
-  HUGO_VERSION = "0.111.3" # Latest stable version
+#  HUGO_VERSION = "0.111.3" # Latest stable version
+
+  HUGO_VERSION = "0.123.3" # Latest stable version
 
   HUGO_ENABLEGITINFO = "true"
 
