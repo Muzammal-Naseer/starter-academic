@@ -4,17 +4,6 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 
-# Configuration of Hugo
-# ... (other settings) ...
-
-security:
-  _merge: deep # Keep this if it exists, otherwise add the security block
-  funcs:
-    getenv: ['^HUGO_', '^CI$', '^WC_POST_CSS$'] # Add ^WC_POST_CSS$ here
-
-sitemap:
-  _merge: deep
-
 # Website name
 title: Hugo Academic CV Theme
 # Website URL
@@ -58,11 +47,16 @@ taxonomies:
   author: authors
   tag: tags
   publication_type: publication_types
+# ... inside config/_default/hugo.yaml ...
 markup:
   _merge: deep
   highlight:
     lineNos: false
 security:
   _merge: deep
+  # Add the line below if funcs doesn't exist, otherwise modify the existing getenv
+  funcs:
+    getenv: ['^HUGO_', '^CI$', '^WC_POST_CSS$'] # MODIFY THIS LINE
 sitemap:
   _merge: deep
+# ... rest of the file ...
